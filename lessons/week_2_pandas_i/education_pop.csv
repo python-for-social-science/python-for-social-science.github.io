@@ -1,0 +1,849 @@
+GEO_ID,NAME,COUNTY,STATE,TOT_HOUSEHOLD,POPULATION,TOT_ENROLLED,PRE_K,KINDER,ELEMENTARY,HIGH_SCHOOL,COLLEGE,COLLEGE_POP
+0500000US01003,"Baldwin County, Alabama",Baldwin County, Alabama,98854.0,242869.0,50306.0,7.6,6.0,39.9,27.2,19.3,9709.058
+0500000US01015,"Calhoun County, Alabama",Calhoun County, Alabama,45701.0,111180.0,26480.0,7.3,2.8,39.7,23.8,26.3,6964.240000000001
+0500000US01043,"Cullman County, Alabama",Cullman County, Alabama,35966.0,89458.0,19677.0,11.4,5.4,44.0,21.0,18.2,3581.214
+0500000US01049,"DeKalb County, Alabama",DeKalb County, Alabama,26459.0,71128.0,16468.0,4.2,3.8,50.7,23.2,18.1,2980.7080000000005
+0500000US01051,"Elmore County, Alabama",Elmore County, Alabama,34061.0,85530.0,19722.0,6.5,4.5,46.9,24.6,17.5,3451.35
+0500000US01055,"Etowah County, Alabama",Etowah County, Alabama,39956.0,101331.0,21742.0,6.4,9.6,43.6,20.5,20.0,4348.400000000001
+0500000US01069,"Houston County, Alabama",Houston County, Alabama,42417.0,107231.0,24188.0,7.0,5.9,44.5,21.9,20.7,5006.916
+0500000US01073,"Jefferson County, Alabama",Jefferson County, Alabama,271877.0,645138.0,166550.0,8.4,4.8,38.8,20.9,27.1,45135.05
+0500000US01077,"Lauderdale County, Alabama",Lauderdale County, Alabama,39021.0,92661.0,22138.0,3.8,3.1,43.9,18.1,31.2,6907.056
+0500000US01081,"Lee County, Alabama",Lee County, Alabama,71830.0,173539.0,60932.0,4.4,3.4,28.7,13.3,50.2,30587.864
+0500000US01083,"Limestone County, Alabama",Limestone County, Alabama,40036.0,107987.0,26098.0,3.5,8.9,48.4,17.2,22.0,5741.56
+0500000US01089,"Madison County, Alabama",Madison County, Alabama,166454.0,393162.0,100154.0,5.9,6.0,35.4,19.4,33.4,33451.435999999994
+0500000US01095,"Marshall County, Alabama",Marshall County, Alabama,36611.0,97950.0,23290.0,8.8,6.4,46.4,25.3,13.1,3050.9900000000002
+0500000US01097,"Mobile County, Alabama",Mobile County, Alabama,162605.0,403001.0,98164.0,6.6,4.4,44.2,21.1,23.7,23264.868
+0500000US01101,"Montgomery County, Alabama",Montgomery County, Alabama,90527.0,217655.0,56158.0,7.3,2.5,43.9,19.3,27.1,15218.818000000001
+0500000US01103,"Morgan County, Alabama",Morgan County, Alabama,49140.0,121959.0,28958.0,5.0,9.1,41.9,23.7,20.4,5907.432
+0500000US01115,"St. Clair County, Alabama",St. Clair County, Alabama,35558.0,91844.0,20981.0,8.9,5.1,47.6,21.3,17.0,3566.7700000000004
+0500000US01117,"Shelby County, Alabama",Shelby County, Alabama,87755.0,226552.0,56747.0,5.3,4.7,42.7,23.2,24.1,13676.027000000002
+0500000US01121,"Talladega County, Alabama",Talladega County, Alabama,34679.0,77343.0,19360.0,8.7,6.2,32.9,20.1,32.0,6195.2
+0500000US01125,"Tuscaloosa County, Alabama",Tuscaloosa County, Alabama,89075.0,220605.0,73984.0,2.9,2.1,29.7,15.3,49.9,36918.016
+0500000US02020,"Anchorage Municipality, Alaska",Anchorage Municipality, Alaska,109856.0,280490.0,64342.0,5.2,4.4,47.1,22.2,21.1,13576.162000000002
+0500000US02090,"Fairbanks North Star Borough, Alaska",Fairbanks North Star Borough, Alaska,37356.0,91429.0,23880.0,4.2,5.1,36.3,23.5,30.8,7355.04
+0500000US02170,"Matanuska-Susitna Borough, Alaska",Matanuska-Susitna Borough, Alaska,39942.0,110610.0,26872.0,5.5,6.1,50.0,25.5,12.9,3466.4880000000003
+0500000US04001,"Apache County, Arizona",Apache County, Arizona,20690.0,64067.0,16835.0,7.1,6.0,49.7,22.0,15.2,2558.92
+0500000US04003,"Cochise County, Arizona",Cochise County, Arizona,49981.0,120956.0,28759.0,4.5,3.3,44.4,25.9,22.0,6326.9800000000005
+0500000US04005,"Coconino County, Arizona",Coconino County, Arizona,53988.0,132044.0,47583.0,3.9,4.0,27.8,11.4,52.9,25171.407000000003
+0500000US04013,"Maricopa County, Arizona",Maricopa County, Arizona,1726554.0,4479734.0,1087431.0,4.3,4.8,41.7,23.5,25.6,278382.336
+0500000US04015,"Mohave County, Arizona",Mohave County, Arizona,99512.0,215784.0,33597.0,3.8,7.1,45.7,25.8,17.6,5913.072000000001
+0500000US04017,"Navajo County, Arizona",Navajo County, Arizona,41415.0,106194.0,24640.0,5.3,4.7,52.6,26.2,11.3,2784.32
+0500000US04019,"Pima County, Arizona",Pima County, Arizona,436469.0,1029702.0,255016.0,3.4,4.0,36.8,20.7,35.1,89510.61600000001
+0500000US04021,"Pinal County, Arizona",Pinal County, Arizona,164281.0,449114.0,99115.0,3.8,4.8,47.3,25.7,18.4,18237.16
+0500000US04025,"Yavapai County, Arizona",Yavapai County, Arizona,110928.0,242071.0,40926.0,1.9,3.3,43.9,24.5,26.5,10845.390000000001
+0500000US04027,"Yuma County, Arizona",Yuma County, Arizona,80857.0,201123.0,48920.0,5.2,5.6,44.0,23.2,22.0,10762.4
+0500000US05007,"Benton County, Arkansas",Benton County, Arkansas,112045.0,300049.0,72209.0,6.6,6.3,48.0,22.4,16.7,12058.902999999998
+0500000US05031,"Craighead County, Arkansas",Craighead County, Arkansas,44528.0,109650.0,29655.0,5.7,4.0,46.4,19.2,24.7,7324.785
+0500000US05045,"Faulkner County, Arkansas",Faulkner County, Arkansas,49270.0,122553.0,33665.0,5.4,5.6,37.9,13.9,37.3,12557.045
+0500000US05051,"Garland County, Arkansas",Garland County, Arkansas,45340.0,98523.0,19498.0,6.0,3.6,45.8,28.4,16.2,3158.676
+0500000US05069,"Jefferson County, Arkansas",Jefferson County, Arkansas,24326.0,58155.0,13532.0,8.7,6.2,43.8,20.5,20.8,2814.6560000000004
+0500000US05085,"Lonoke County, Arkansas",Lonoke County, Arkansas,28268.0,74488.0,15999.0,7.0,5.7,52.0,21.6,13.9,2223.8610000000003
+0500000US05119,"Pulaski County, Arkansas",Pulaski County, Arkansas,174628.0,390610.0,85591.0,6.2,7.2,38.9,20.4,27.3,23366.343
+0500000US05125,"Saline County, Arkansas",Saline County, Arkansas,50237.0,125981.0,25290.0,4.8,5.0,46.2,23.7,20.2,5108.58
+0500000US05131,"Sebastian County, Arkansas",Sebastian County, Arkansas,52078.0,127343.0,30141.0,8.9,4.9,48.1,20.7,17.4,5244.534
+0500000US05143,"Washington County, Arkansas",Washington County, Arkansas,98935.0,247097.0,72354.0,3.4,3.5,38.7,17.8,36.7,26553.918000000005
+0500000US05145,"White County, Arkansas",White County, Arkansas,29805.0,75088.0,18907.0,2.1,3.1,46.2,19.0,29.5,5577.565
+0500000US06001,"Alameda County, California",Alameda County, California,596614.0,1591744.0,385159.0,5.3,5.4,35.7,19.5,34.1,131339.219
+0500000US06007,"Butte County, California",Butte County, California,82494.0,200802.0,56543.0,4.4,4.6,31.3,16.3,43.4,24539.662
+0500000US06013,"Contra Costa County, California",Contra Costa County, California,415194.0,1144370.0,283487.0,5.9,4.8,39.1,23.9,26.3,74557.081
+0500000US06017,"El Dorado County, California",El Dorado County, California,74376.0,190661.0,38961.0,5.6,5.9,41.8,23.2,23.4,9116.874
+0500000US06019,"Fresno County, California",Fresno County, California,326981.0,993924.0,290513.0,4.4,5.7,43.5,22.3,24.1,70013.633
+0500000US06023,"Humboldt County, California",Humboldt County, California,56785.0,131004.0,30618.0,3.2,4.5,40.8,16.1,35.4,10838.771999999999
+0500000US06025,"Imperial County, California",Imperial County, California,50877.0,172383.0,53986.0,5.3,4.4,40.7,27.1,22.4,12092.864
+0500000US06029,"Kern County, California",Kern County, California,283510.0,889687.0,262726.0,3.3,5.4,45.2,25.2,20.8,54647.008
+0500000US06031,"Kings County, California",Kings County, California,43646.0,139375.0,42591.0,1.7,6.7,43.9,24.7,23.0,9795.93
+0500000US06033,"Lake County, California",Lake County, California,27058.0,67020.0,15090.0,4.2,7.6,34.0,29.2,25.0,3772.5
+0500000US06037,"Los Angeles County, California",Los Angeles County, California,3415726.0,9533172.0,2340018.0,5.1,4.6,37.8,21.6,31.0,725405.58
+0500000US06039,"Madera County, California",Madera County, California,45539.0,154359.0,60003.0,3.3,4.4,33.6,28.9,29.9,17940.897
+0500000US06041,"Marin County, California",Marin County, California,103285.0,248861.0,57169.0,8.8,4.6,36.8,24.6,25.2,14406.588
+0500000US06045,"Mendocino County, California",Mendocino County, California,34998.0,87741.0,19146.0,5.7,8.5,42.1,22.3,21.4,4097.244
+0500000US06047,"Merced County, California",Merced County, California,87830.0,286265.0,84183.0,3.7,5.7,42.0,26.3,22.3,18772.809
+0500000US06053,"Monterey County, California",Monterey County, California,132411.0,411595.0,115908.0,4.3,4.9,41.9,24.5,24.4,28281.552
+0500000US06055,"Napa County, California",Napa County, California,51025.0,130255.0,29700.0,4.4,3.0,37.1,26.1,29.3,8702.1
+0500000US06057,"Nevada County, California",Nevada County, California,44000.0,100498.0,17667.0,4.0,6.9,42.1,26.8,20.1,3551.067
+0500000US06059,"Orange County, California",Orange County, California,1085225.0,3094994.0,812421.0,5.9,4.9,35.6,19.6,34.0,276223.14
+0500000US06061,"Placer County, California",Placer County, California,160203.0,412090.0,100160.0,7.0,4.2,41.3,22.7,24.8,24839.68
+0500000US06065,"Riverside County, California",Riverside County, California,769475.0,2439260.0,652607.0,3.9,4.5,41.6,22.8,27.3,178161.711
+0500000US06067,"Sacramento County, California",Sacramento County, California,572744.0,1558455.0,394311.0,4.8,4.2,41.0,21.3,28.8,113561.56800000001
+0500000US06069,"San Benito County, California",San Benito County, California,20610.0,67103.0,19013.0,7.5,7.7,37.1,25.7,22.0,4182.86
+0500000US06071,"San Bernardino County, California",San Bernardino County, California,674191.0,2155780.0,604894.0,4.3,4.5,41.9,22.8,26.5,160296.91
+0500000US06073,"San Diego County, California",San Diego County, California,1172343.0,3160203.0,811451.0,5.5,4.5,37.4,19.7,32.9,266967.37899999996
+0500000US06075,"San Francisco County, California",San Francisco County, California,361912.0,782233.0,146192.0,8.0,2.5,33.0,16.7,39.8,58184.416
+0500000US06077,"San Joaquin County, California",San Joaquin County, California,241903.0,779549.0,213461.0,4.4,5.3,44.7,23.5,22.0,46961.42
+0500000US06079,"San Luis Obispo County, California",San Luis Obispo County, California,111713.0,267111.0,75827.0,4.2,2.9,28.4,16.7,47.7,36169.479
+0500000US06081,"San Mateo County, California",San Mateo County, California,262122.0,717387.0,165457.0,6.6,5.9,36.6,20.9,29.9,49471.643
+0500000US06083,"Santa Barbara County, California",Santa Barbara County, California,150851.0,420771.0,133061.0,3.7,3.9,32.1,17.2,43.0,57216.229999999996
+0500000US06085,"Santa Clara County, California",Santa Clara County, California,656477.0,1829890.0,468451.0,6.2,3.8,36.0,21.2,32.8,153651.92799999999
+0500000US06087,"Santa Cruz County, California",Santa Cruz County, California,96015.0,250147.0,73899.0,3.1,4.0,27.3,17.9,47.7,35249.823000000004
+0500000US06089,"Shasta County, California",Shasta County, California,71213.0,176875.0,39379.0,4.4,6.1,42.0,22.5,24.9,9805.371
+0500000US06095,"Solano County, California",Solano County, California,159294.0,438087.0,106716.0,4.7,4.1,40.5,22.3,28.3,30200.628000000004
+0500000US06097,"Sonoma County, California",Sonoma County, California,194698.0,471558.0,101272.0,4.8,5.6,38.1,22.9,28.6,28963.792000000005
+0500000US06099,"Stanislaus County, California",Stanislaus County, California,177101.0,545363.0,152322.0,4.4,5.0,44.3,21.7,24.6,37471.21200000001
+0500000US06101,"Sutter County, California",Sutter County, California,33732.0,97553.0,27170.0,3.2,5.8,42.4,25.0,23.6,6412.120000000001
+0500000US06103,"Tehama County, California",Tehama County, California,24625.0,64004.0,14875.0,3.2,4.0,50.5,21.7,20.7,3079.125
+0500000US06107,"Tulare County, California",Tulare County, California,143129.0,471674.0,142438.0,2.7,5.9,45.7,26.0,19.7,28060.285999999996
+0500000US06111,"Ventura County, California",Ventura County, California,278631.0,819913.0,203574.0,4.6,5.6,39.4,22.6,27.9,56797.14599999999
+0500000US06113,"Yolo County, California",Yolo County, California,77323.0,211389.0,77501.0,3.2,2.6,25.0,15.5,53.7,41618.037000000004
+0500000US06115,"Yuba County, California",Yuba County, California,29430.0,82945.0,22052.0,2.4,5.5,51.2,17.9,23.0,5071.96
+0500000US08001,"Adams County, Colorado",Adams County, Colorado,190647.0,524341.0,130607.0,6.5,4.9,43.5,25.8,19.2,25076.544
+0500000US08005,"Arapahoe County, Colorado",Arapahoe County, Colorado,258450.0,650974.0,149132.0,7.9,5.2,42.3,22.8,21.8,32510.776
+0500000US08013,"Boulder County, Colorado",Boulder County, Colorado,137786.0,314584.0,95062.0,5.8,3.2,27.9,16.1,47.0,44679.14
+0500000US08014,"Broomfield County, Colorado",Broomfield County, Colorado,31244.0,75712.0,18304.0,4.9,6.9,40.1,24.0,24.2,4429.568
+0500000US08031,"Denver County, Colorado",Denver County, Colorado,334942.0,698269.0,141964.0,7.2,5.3,36.3,20.2,31.0,44008.84
+0500000US08035,"Douglas County, Colorado",Douglas County, Colorado,140100.0,374660.0,94430.0,5.7,4.6,42.9,25.2,21.6,20396.88
+0500000US08041,"El Paso County, Colorado",El Paso County, Colorado,293070.0,718785.0,189536.0,5.3,3.8,40.3,20.9,29.7,56292.191999999995
+0500000US08059,"Jefferson County, Colorado",Jefferson County, Colorado,241421.0,567009.0,120591.0,6.9,4.8,38.7,21.8,27.8,33524.298
+0500000US08069,"Larimer County, Colorado",Larimer County, Colorado,154391.0,356780.0,96065.0,4.5,4.0,30.7,16.6,44.2,42460.73
+0500000US08077,"Mesa County, Colorado",Mesa County, Colorado,66134.0,154194.0,36946.0,6.5,3.6,41.1,21.7,27.2,10049.312
+0500000US08101,"Pueblo County, Colorado",Pueblo County, Colorado,67840.0,164586.0,37257.0,5.0,6.6,44.8,24.8,18.7,6967.059
+0500000US08123,"Weld County, Colorado",Weld County, Colorado,123825.0,345383.0,90999.0,6.7,4.7,44.3,21.3,23.1,21020.769
+0500000US09110,"Capitol Planning Region, Connecticut",Capitol Planning Region, Connecticut,392357.0,941937.0,239081.0,5.1,4.0,37.8,21.5,31.7,75788.677
+0500000US09120,"Greater Bridgeport Planning Region, Connecticut",Greater Bridgeport Planning Region, Connecticut,118390.0,316443.0,86088.0,6.6,6.2,34.5,21.2,31.5,27117.72
+0500000US09130,"Lower Connecticut River Valley Planning Region, Connecticut",Lower Connecticut River Valley Planning Region, Connecticut,74514.0,166420.0,39760.0,6.3,3.5,32.9,19.5,37.9,15069.04
+0500000US09140,"Naugatuck Valley Planning Region, Connecticut",Naugatuck Valley Planning Region, Connecticut,180339.0,447608.0,101567.0,7.5,6.4,41.1,21.1,23.9,24274.513
+0500000US09150,"Northeastern Connecticut Planning Region, Connecticut",Northeastern Connecticut Planning Region, Connecticut,39334.0,94798.0,21117.0,5.6,5.0,38.3,26.8,24.3,5131.431
+0500000US09160,"Northwest Hills Planning Region, Connecticut",Northwest Hills Planning Region, Connecticut,47947.0,110666.0,23409.0,7.1,3.4,41.6,26.4,21.5,5032.9349999999995
+0500000US09170,"South Central Connecticut Planning Region, Connecticut",South Central Connecticut Planning Region, Connecticut,229921.0,545797.0,146691.0,5.6,4.0,33.0,19.7,37.8,55449.19799999999
+0500000US09180,"Southeastern Connecticut Planning Region, Connecticut",Southeastern Connecticut Planning Region, Connecticut,115607.0,267822.0,61482.0,4.5,3.1,42.0,20.3,30.1,18506.082
+0500000US09190,"Western Connecticut Planning Region, Connecticut",Western Connecticut Planning Region, Connecticut,235226.0,614978.0,153467.0,7.4,4.9,41.7,22.4,23.6,36218.212
+0500000US10001,"Kent County, Delaware",Kent County, Delaware,73497.0,182773.0,46649.0,2.6,8.6,40.1,19.1,29.6,13808.104000000001
+0500000US10003,"New Castle County, Delaware",New Castle County, Delaware,223989.0,559839.0,140485.0,7.0,4.2,38.9,20.3,29.6,41583.560000000005
+0500000US10005,"Sussex County, Delaware",Sussex County, Delaware,104848.0,253096.0,44362.0,5.6,7.0,44.1,21.8,21.4,9493.467999999999
+0500000US11001,"District of Columbia, District of Columbia",District of Columbia, District of Columbia,326970.0,633828.0,167155.0,8.2,4.4,32.1,15.3,40.0,66862.0
+0500000US12001,"Alachua County, Florida",Alachua County, Florida,116507.0,265006.0,102830.0,4.0,3.3,22.6,9.0,61.1,62829.13
+0500000US12005,"Bay County, Florida",Bay County, Florida,79044.0,182399.0,39548.0,7.6,4.7,45.3,20.6,21.8,8621.464
+0500000US12009,"Brevard County, Florida",Brevard County, Florida,255723.0,622282.0,124258.0,6.6,5.0,40.8,21.4,26.1,32431.338
+0500000US12011,"Broward County, Florida",Broward County, Florida,753084.0,1928216.0,440451.0,6.7,4.9,40.9,21.5,25.9,114076.80900000001
+0500000US12015,"Charlotte County, Florida",Charlotte County, Florida,90457.0,198565.0,23857.0,4.3,6.0,41.4,25.7,22.7,5415.539
+0500000US12017,"Citrus County, Florida",Citrus County, Florida,71493.0,160009.0,22981.0,3.2,4.4,49.3,27.1,16.1,3699.9410000000003
+0500000US12019,"Clay County, Florida",Clay County, Florida,85253.0,224203.0,52136.0,8.1,6.7,41.7,26.2,17.2,8967.392
+0500000US12021,"Collier County, Florida",Collier County, Florida,166206.0,392583.0,67346.0,6.2,4.6,42.9,23.7,22.6,15220.196
+0500000US12023,"Columbia County, Florida",Columbia County, Florida,27963.0,68128.0,15585.0,6.4,9.9,44.8,18.4,20.5,3194.9249999999997
+0500000US12031,"Duval County, Florida",Duval County, Florida,416112.0,995732.0,232481.0,6.7,5.6,41.7,21.1,24.9,57887.769
+0500000US12033,"Escambia County, Florida",Escambia County, Florida,133784.0,306105.0,73008.0,4.1,4.4,40.7,18.6,32.2,23508.576
+0500000US12035,"Flagler County, Florida",Flagler County, Florida,54364.0,125860.0,21763.0,4.8,10.3,40.4,23.3,21.1,4591.993
+0500000US12053,"Hernando County, Florida",Hernando County, Florida,80211.0,204886.0,39044.0,6.9,6.9,42.3,23.4,20.5,8004.0199999999995
+0500000US12055,"Highlands County, Florida",Highlands County, Florida,47706.0,104218.0,18678.0,6.0,6.9,41.1,26.4,19.6,3660.888
+0500000US12057,"Hillsborough County, Florida",Hillsborough County, Florida,582824.0,1482220.0,363811.0,6.3,4.9,39.4,20.9,28.5,103686.135
+0500000US12061,"Indian River County, Florida",Indian River County, Florida,72199.0,165676.0,26260.0,5.6,7.7,43.1,21.9,21.8,5724.68
+0500000US12069,"Lake County, Florida",Lake County, Florida,167485.0,405486.0,78414.0,6.5,5.9,44.4,23.8,19.5,15290.730000000001
+0500000US12071,"Lee County, Florida",Lee County, Florida,339269.0,809561.0,144764.0,4.6,4.8,42.0,24.9,23.7,34309.068
+0500000US12073,"Leon County, Florida",Leon County, Florida,120220.0,279484.0,102197.0,3.1,3.2,22.2,14.2,57.3,58558.880999999994
+0500000US12081,"Manatee County, Florida",Manatee County, Florida,176772.0,423717.0,78266.0,9.1,4.6,39.9,23.3,23.1,18079.446
+0500000US12083,"Marion County, Florida",Marion County, Florida,163513.0,387351.0,76038.0,3.4,4.3,44.8,25.0,22.5,17108.55
+0500000US12085,"Martin County, Florida",Martin County, Florida,66871.0,158065.0,27030.0,8.7,7.3,36.6,25.2,22.3,6027.6900000000005
+0500000US12086,"Miami-Dade County, Florida",Miami-Dade County, Florida,983509.0,2630655.0,610964.0,7.0,6.1,37.6,20.4,29.0,177179.56
+0500000US12087,"Monroe County, Florida",Monroe County, Florida,34320.0,80231.0,14386.0,3.5,6.1,47.1,19.7,23.6,3395.096
+0500000US12089,"Nassau County, Florida",Nassau County, Florida,41347.0,97117.0,18442.0,4.3,5.4,43.6,22.3,24.4,4499.848
+0500000US12091,"Okaloosa County, Florida",Okaloosa County, Florida,86848.0,211888.0,47908.0,4.5,5.3,44.2,20.8,25.2,12072.816
+0500000US12095,"Orange County, Florida",Orange County, Florida,545757.0,1413417.0,378410.0,6.7,4.8,35.6,19.6,33.4,126388.93999999999
+0500000US12097,"Osceola County, Florida",Osceola County, Florida,151618.0,420250.0,107020.0,4.6,4.3,42.4,25.8,22.9,24507.579999999998
+0500000US12099,"Palm Beach County, Florida",Palm Beach County, Florida,607453.0,1491252.0,313769.0,7.2,4.5,39.8,21.6,26.9,84403.86099999999
+0500000US12101,"Pasco County, Florida",Pasco County, Florida,240785.0,600790.0,124077.0,5.1,5.7,41.9,23.7,23.6,29282.172000000002
+0500000US12103,"Pinellas County, Florida",Pinellas County, Florida,425255.0,940596.0,168619.0,5.6,4.3,38.7,20.6,30.8,51934.652
+0500000US12105,"Polk County, Florida",Polk County, Florida,291994.0,771304.0,171545.0,4.2,4.0,47.1,22.5,22.3,38254.535
+0500000US12107,"Putnam County, Florida",Putnam County, Florida,31087.0,73094.0,14249.0,8.1,4.1,49.0,22.0,16.8,2393.8320000000003
+0500000US12109,"St. Johns County, Florida",St. Johns County, Florida,119515.0,303733.0,70466.0,6.3,4.7,45.3,24.4,19.3,13599.938
+0500000US12111,"St. Lucie County, Florida",St. Lucie County, Florida,134215.0,355544.0,71068.0,5.9,4.7,43.0,24.8,21.5,15279.619999999999
+0500000US12113,"Santa Rosa County, Florida",Santa Rosa County, Florida,73545.0,193938.0,42860.0,5.2,7.7,45.1,23.0,19.1,8186.26
+0500000US12115,"Sarasota County, Florida",Sarasota County, Florida,215125.0,453926.0,70785.0,6.7,5.1,38.6,22.7,27.0,19111.95
+0500000US12117,"Seminole County, Florida",Seminole County, Florida,189482.0,474157.0,113483.0,7.3,4.7,37.0,23.2,27.8,31548.274
+0500000US12119,"Sumter County, Florida",Sumter County, Florida,71378.0,137145.0,9368.0,0.3,5.3,44.5,23.9,26.1,2445.0480000000002
+0500000US12127,"Volusia County, Florida",Volusia County, Florida,241871.0,561833.0,114684.0,5.5,5.0,39.1,19.2,31.2,35781.408
+0500000US12131,"Walton County, Florida",Walton County, Florida,36771.0,81474.0,14121.0,2.5,9.6,51.9,24.6,11.4,1609.794
+0500000US13013,"Barrow County, Georgia",Barrow County, Georgia,30950.0,88810.0,22118.0,4.3,7.8,42.7,25.2,20.0,4423.6
+0500000US13015,"Bartow County, Georgia",Bartow County, Georgia,40620.0,111872.0,26821.0,7.4,1.2,43.0,26.2,22.1,5927.441
+0500000US13021,"Bibb County, Georgia",Bibb County, Georgia,62061.0,149746.0,38295.0,6.7,7.3,41.8,20.3,23.9,9152.505
+0500000US13031,"Bulloch County, Georgia",Bulloch County, Georgia,31804.0,77109.0,31578.0,2.9,1.8,21.6,11.3,62.4,19704.672
+0500000US13045,"Carroll County, Georgia",Carroll County, Georgia,44841.0,121171.0,37567.0,5.1,6.6,36.4,19.6,32.2,12096.574
+0500000US13047,"Catoosa County, Georgia",Catoosa County, Georgia,27083.0,68322.0,15249.0,5.0,0.3,45.7,32.8,16.2,2470.338
+0500000US13051,"Chatham County, Georgia",Chatham County, Georgia,121527.0,287945.0,74555.0,4.2,4.5,36.3,19.8,35.2,26243.360000000004
+0500000US13057,"Cherokee County, Georgia",Cherokee County, Georgia,103550.0,279211.0,67751.0,5.8,5.0,41.2,25.3,22.7,15379.476999999999
+0500000US13059,"Clarke County, Georgia",Clarke County, Georgia,53504.0,120006.0,51936.0,2.6,1.8,21.0,6.3,68.3,35472.288
+0500000US13063,"Clayton County, Georgia",Clayton County, Georgia,108274.0,294257.0,76152.0,4.5,9.3,43.8,21.2,21.3,16220.376
+0500000US13067,"Cobb County, Georgia",Cobb County, Georgia,298239.0,763385.0,194788.0,6.7,4.6,39.9,22.0,26.7,52008.396
+0500000US13073,"Columbia County, Georgia",Columbia County, Georgia,55346.0,161382.0,43033.0,10.0,4.2,43.7,19.8,22.4,9639.392
+0500000US13077,"Coweta County, Georgia",Coweta County, Georgia,56409.0,151778.0,37264.0,6.0,3.6,47.2,25.2,18.0,6707.5199999999995
+0500000US13089,"DeKalb County, Georgia",DeKalb County, Georgia,279861.0,752160.0,185522.0,6.3,4.7,39.9,22.1,27.0,50090.94
+0500000US13095,"Dougherty County, Georgia",Dougherty County, Georgia,34210.0,79139.0,22889.0,10.1,3.8,40.8,16.5,28.7,6569.142999999999
+0500000US13097,"Douglas County, Georgia",Douglas County, Georgia,52654.0,146209.0,41411.0,2.8,7.1,41.3,22.9,25.9,10725.449
+0500000US13103,"Effingham County, Georgia",Effingham County, Georgia,23911.0,68727.0,17922.0,6.6,3.7,51.4,20.0,18.2,3261.804
+0500000US13113,"Fayette County, Georgia",Fayette County, Georgia,44353.0,121221.0,33611.0,4.9,3.0,39.8,27.9,24.4,8201.083999999999
+0500000US13115,"Floyd County, Georgia",Floyd County, Georgia,38087.0,95263.0,23131.0,7.0,4.6,45.3,21.4,21.7,5019.427
+0500000US13117,"Forsyth County, Georgia",Forsyth County, Georgia,88874.0,266004.0,74822.0,6.9,4.2,44.5,25.3,19.1,14291.002
+0500000US13121,"Fulton County, Georgia",Fulton County, Georgia,464061.0,1045538.0,270694.0,5.8,4.7,35.7,21.5,32.4,87704.856
+0500000US13127,"Glynn County, Georgia",Glynn County, Georgia,36147.0,83870.0,18051.0,6.6,3.4,44.6,25.6,19.9,3592.149
+0500000US13135,"Gwinnett County, Georgia",Gwinnett County, Georgia,327019.0,968059.0,272810.0,5.8,4.7,41.5,24.0,24.0,65474.399999999994
+0500000US13139,"Hall County, Georgia",Hall County, Georgia,74331.0,209624.0,53309.0,4.8,4.2,43.5,24.4,23.1,12314.379
+0500000US13151,"Henry County, Georgia",Henry County, Georgia,86344.0,247719.0,69686.0,8.3,2.6,39.4,27.1,22.7,15818.721999999998
+0500000US13153,"Houston County, Georgia",Houston County, Georgia,62653.0,167914.0,46947.0,5.1,4.7,45.3,20.8,24.1,11314.227
+0500000US13157,"Jackson County, Georgia",Jackson County, Georgia,28145.0,83347.0,20817.0,5.2,3.1,46.9,25.2,19.6,4080.132
+0500000US13179,"Liberty County, Georgia",Liberty County, Georgia,24023.0,65525.0,17650.0,4.1,4.0,49.1,16.8,26.0,4589.0
+0500000US13185,"Lowndes County, Georgia",Lowndes County, Georgia,46126.0,114988.0,36282.0,4.2,5.2,36.8,18.2,35.5,12880.109999999999
+0500000US13215,"Muscogee County, Georgia",Muscogee County, Georgia,80694.0,196624.0,51503.0,2.7,5.3,46.7,23.2,22.2,11433.666
+0500000US13217,"Newton County, Georgia",Newton County, Georgia,41348.0,116065.0,31975.0,5.7,6.8,40.6,22.4,24.5,7833.875
+0500000US13223,"Paulding County, Georgia",Paulding County, Georgia,60903.0,177650.0,46425.0,4.0,4.7,47.4,25.0,19.1,8867.175
+0500000US13245,"Richmond County, Georgia",Richmond County, Georgia,75848.0,197194.0,53905.0,5.0,3.8,40.5,19.1,31.6,17033.98
+0500000US13247,"Rockdale County, Georgia",Rockdale County, Georgia,33522.0,94257.0,24088.0,4.8,2.7,48.4,28.2,16.0,3854.08
+0500000US13255,"Spalding County, Georgia",Spalding County, Georgia,27205.0,68122.0,15105.0,2.5,8.4,45.2,22.8,21.2,3202.2599999999998
+0500000US13285,"Troup County, Georgia",Troup County, Georgia,27213.0,68650.0,17912.0,3.1,5.3,45.6,23.2,22.8,4083.936
+0500000US13295,"Walker County, Georgia",Walker County, Georgia,27195.0,67189.0,12263.0,6.4,6.9,50.0,19.4,17.4,2133.7619999999997
+0500000US13297,"Walton County, Georgia",Walton County, Georgia,36248.0,102287.0,22755.0,5.2,2.5,48.1,30.3,14.0,3185.7000000000003
+0500000US13313,"Whitfield County, Georgia",Whitfield County, Georgia,36757.0,101929.0,26026.0,4.8,5.2,43.3,25.8,20.9,5439.434
+0500000US15001,"Hawaii County, Hawaii",Hawaii County, Hawaii,74764.0,203517.0,42852.0,4.5,6.6,49.0,20.6,19.3,8270.436
+0500000US15003,"Honolulu County, Hawaii",Honolulu County, Hawaii,338438.0,961652.0,228932.0,6.6,4.7,39.3,19.3,30.2,69137.46399999999
+0500000US15007,"Kauai County, Hawaii",Kauai County, Hawaii,24237.0,72934.0,16241.0,5.3,5.2,45.4,27.7,16.4,2663.524
+0500000US15009,"Maui County, Hawaii",Maui County, Hawaii,57355.0,161186.0,32499.0,5.7,6.2,43.6,26.9,17.6,5719.8240000000005
+0500000US16001,"Ada County, Idaho",Ada County, Idaho,201322.0,505873.0,129412.0,6.3,3.7,40.9,22.8,26.3,34035.356
+0500000US16005,"Bannock County, Idaho",Bannock County, Idaho,34410.0,87090.0,26306.0,5.9,2.3,41.6,17.4,32.9,8654.673999999999
+0500000US16019,"Bonneville County, Idaho",Bonneville County, Idaho,43345.0,127981.0,37545.0,5.7,6.5,47.8,25.2,14.8,5556.660000000001
+0500000US16027,"Canyon County, Idaho",Canyon County, Idaho,86271.0,247665.0,65159.0,4.7,6.4,48.5,23.2,17.2,11207.348
+0500000US16055,"Kootenai County, Idaho",Kootenai County, Idaho,71309.0,181585.0,37205.0,6.6,6.7,48.2,24.4,14.1,5245.905
+0500000US16083,"Twin Falls County, Idaho",Twin Falls County, Idaho,35150.0,92092.0,23407.0,4.8,6.0,49.1,22.7,17.5,4096.224999999999
+0500000US17019,"Champaign County, Illinois",Champaign County, Illinois,84713.0,192533.0,69572.0,3.1,3.2,24.7,11.6,57.5,40003.899999999994
+0500000US17031,"Cook County, Illinois",Cook County, Illinois,2110498.0,5028897.0,1199780.0,6.3,4.8,39.3,22.1,27.5,329939.5
+0500000US17037,"DeKalb County, Illinois",DeKalb County, Illinois,39136.0,95667.0,29447.0,5.1,4.0,32.5,15.6,42.7,12573.869
+0500000US17043,"DuPage County, Illinois",DuPage County, Illinois,351021.0,907127.0,221029.0,6.2,4.8,40.6,23.3,25.1,55478.279
+0500000US17089,"Kane County, Illinois",Kane County, Illinois,184247.0,509172.0,125493.0,5.9,4.9,43.3,23.8,22.1,27733.953
+0500000US17091,"Kankakee County, Illinois",Kankakee County, Illinois,40585.0,101952.0,24157.0,9.7,5.0,42.1,21.6,21.6,5217.912
+0500000US17093,"Kendall County, Illinois",Kendall County, Illinois,45163.0,136852.0,40040.0,7.2,7.0,38.0,23.2,24.6,9849.84
+0500000US17097,"Lake County, Illinois",Lake County, Illinois,260861.0,690077.0,177343.0,6.9,4.9,41.6,23.9,22.7,40256.861
+0500000US17099,"LaSalle County, Illinois",LaSalle County, Illinois,45208.0,105001.0,22464.0,6.7,5.1,48.8,22.6,16.8,3773.952
+0500000US17111,"McHenry County, Illinois",McHenry County, Illinois,118287.0,309939.0,74208.0,5.5,5.4,41.3,22.6,25.2,18700.416
+0500000US17113,"McLean County, Illinois",McLean County, Illinois,68879.0,162577.0,53380.0,3.6,2.8,31.6,14.8,47.1,25141.980000000003
+0500000US17115,"Macon County, Illinois",Macon County, Illinois,43718.0,98487.0,23266.0,7.7,3.3,40.4,20.9,27.7,6444.681999999999
+0500000US17119,"Madison County, Illinois",Madison County, Illinois,110080.0,258899.0,62850.0,8.5,3.7,38.8,23.0,26.0,16341.0
+0500000US17143,"Peoria County, Illinois",Peoria County, Illinois,78636.0,173459.0,46984.0,7.0,4.6,37.5,21.4,29.4,13813.295999999998
+0500000US17161,"Rock Island County, Illinois",Rock Island County, Illinois,62373.0,136375.0,33141.0,8.1,7.3,44.1,19.1,21.4,7092.174
+0500000US17163,"St. Clair County, Illinois",St. Clair County, Illinois,101870.0,247738.0,62663.0,7.6,3.4,45.7,23.9,19.3,12093.959
+0500000US17167,"Sangamon County, Illinois",Sangamon County, Illinois,82193.0,190502.0,42520.0,5.4,6.5,43.7,24.9,19.6,8333.92
+0500000US17179,"Tazewell County, Illinois",Tazewell County, Illinois,54400.0,126877.0,29379.0,5.6,5.8,42.6,26.6,19.4,5699.525999999999
+0500000US17183,"Vermilion County, Illinois",Vermilion County, Illinois,30967.0,69234.0,15178.0,6.5,3.4,50.7,26.3,13.1,1988.318
+0500000US17197,"Will County, Illinois",Will County, Illinois,244188.0,688673.0,173463.0,5.5,3.7,42.4,25.8,22.5,39029.175
+0500000US17199,"Williamson County, Illinois",Williamson County, Illinois,29168.0,64535.0,14466.0,5.4,8.8,44.4,19.2,22.3,3225.918
+0500000US17201,"Winnebago County, Illinois",Winnebago County, Illinois,115061.0,278086.0,65036.0,8.5,4.8,47.8,21.1,17.7,11511.372
+0500000US18003,"Allen County, Indiana",Allen County, Indiana,155681.0,385340.0,98259.0,6.9,4.6,45.6,23.1,19.9,19553.540999999997
+0500000US18005,"Bartholomew County, Indiana",Bartholomew County, Indiana,34436.0,82422.0,20529.0,4.7,5.8,46.3,22.8,20.4,4187.916
+0500000US18011,"Boone County, Indiana",Boone County, Indiana,28756.0,73490.0,17304.0,6.1,5.7,49.7,24.9,13.6,2353.344
+0500000US18019,"Clark County, Indiana",Clark County, Indiana,51663.0,122407.0,25607.0,3.2,5.4,42.9,30.2,18.3,4686.081
+0500000US18035,"Delaware County, Indiana",Delaware County, Indiana,47478.0,103986.0,31283.0,2.9,4.3,26.2,15.4,51.2,16016.896
+0500000US18039,"Elkhart County, Indiana",Elkhart County, Indiana,74362.0,204502.0,46533.0,4.2,5.8,54.0,26.5,9.5,4420.635
+0500000US18043,"Floyd County, Indiana",Floyd County, Indiana,33343.0,79242.0,17578.0,11.6,5.3,42.1,26.0,15.0,2636.7
+0500000US18053,"Grant County, Indiana",Grant County, Indiana,26560.0,60547.0,18610.0,9.3,3.0,33.3,21.2,33.2,6178.52
+0500000US18057,"Hamilton County, Indiana",Hamilton County, Indiana,135783.0,362397.0,95052.0,7.9,6.0,41.7,26.3,18.0,17109.36
+0500000US18059,"Hancock County, Indiana",Hancock County, Indiana,32810.0,82325.0,20082.0,6.0,3.9,45.3,24.6,20.2,4056.564
+0500000US18063,"Hendricks County, Indiana",Hendricks County, Indiana,66564.0,175977.0,47146.0,6.8,6.2,41.1,29.5,16.4,7731.943999999999
+0500000US18067,"Howard County, Indiana",Howard County, Indiana,35752.0,82430.0,18460.0,7.8,5.9,47.7,20.8,17.8,3285.8800000000006
+0500000US18081,"Johnson County, Indiana",Johnson County, Indiana,63117.0,162697.0,41170.0,3.3,5.7,45.1,24.8,21.2,8728.039999999999
+0500000US18085,"Kosciusko County, Indiana",Kosciusko County, Indiana,31651.0,79304.0,15568.0,5.0,6.5,42.2,31.4,14.9,2319.632
+0500000US18089,"Lake County, Indiana",Lake County, Indiana,194191.0,494756.0,119039.0,6.2,5.3,43.2,23.7,21.7,25831.463
+0500000US18091,"LaPorte County, Indiana",LaPorte County, Indiana,43213.0,104994.0,22729.0,5.2,4.1,45.7,24.5,20.6,4682.174
+0500000US18095,"Madison County, Indiana",Madison County, Indiana,53332.0,126938.0,28228.0,5.3,7.5,45.4,23.9,17.9,5052.812
+0500000US18097,"Marion County, Indiana",Marion County, Indiana,404259.0,952557.0,239161.0,6.7,5.8,42.4,21.0,24.1,57637.80100000001
+0500000US18105,"Monroe County, Indiana",Monroe County, Indiana,60117.0,126657.0,53571.0,1.9,2.3,19.7,8.5,67.7,36267.567
+0500000US18109,"Morgan County, Indiana",Morgan County, Indiana,28534.0,71500.0,14785.0,4.7,5.6,53.4,24.2,12.1,1788.985
+0500000US18127,"Porter County, Indiana",Porter County, Indiana,70116.0,171450.0,38456.0,6.3,4.9,43.5,23.7,21.6,8306.496000000001
+0500000US18141,"St. Joseph County, Indiana",St. Joseph County, Indiana,105616.0,260915.0,71790.0,5.6,4.8,36.9,24.1,28.7,20603.73
+0500000US18157,"Tippecanoe County, Indiana",Tippecanoe County, Indiana,76043.0,172579.0,69737.0,2.0,2.8,23.4,11.7,60.1,41911.937
+0500000US18163,"Vanderburgh County, Indiana",Vanderburgh County, Indiana,77854.0,173898.0,43549.0,5.8,4.7,40.3,19.9,29.3,12759.857
+0500000US18167,"Vigo County, Indiana",Vigo County, Indiana,42883.0,98211.0,31271.0,6.1,3.7,29.2,18.3,42.7,13352.717
+0500000US18173,"Warrick County, Indiana",Warrick County, Indiana,24881.0,64253.0,14857.0,8.4,5.3,45.7,22.3,18.3,2718.831
+0500000US18177,"Wayne County, Indiana",Wayne County, Indiana,27536.0,64788.0,14114.0,9.0,6.5,43.0,26.9,14.5,2046.5299999999997
+0500000US19013,"Black Hawk County, Iowa",Black Hawk County, Iowa,54689.0,125647.0,34432.0,4.1,4.6,38.1,16.6,36.6,12602.112
+0500000US19049,"Dallas County, Iowa",Dallas County, Iowa,42260.0,107354.0,29445.0,6.7,3.8,47.8,20.4,21.3,6271.785
+0500000US19061,"Dubuque County, Iowa",Dubuque County, Iowa,40644.0,94399.0,24386.0,7.4,5.1,40.8,16.8,30.0,7315.8
+0500000US19103,"Johnson County, Iowa",Johnson County, Iowa,63337.0,148099.0,55531.0,3.7,2.6,26.3,11.7,55.7,30930.767000000003
+0500000US19113,"Linn County, Iowa",Linn County, Iowa,94976.0,224300.0,53772.0,8.5,5.2,43.3,21.8,21.2,11399.663999999999
+0500000US19153,"Polk County, Iowa",Polk County, Iowa,207290.0,492880.0,124483.0,8.1,4.7,42.6,24.4,20.2,25145.566
+0500000US19155,"Pottawattamie County, Iowa",Pottawattamie County, Iowa,38132.0,89753.0,21592.0,5.0,7.1,44.7,22.9,20.3,4383.176
+0500000US19163,"Scott County, Iowa",Scott County, Iowa,73525.0,170527.0,40536.0,7.0,4.4,46.2,22.1,20.4,8269.344
+0500000US19169,"Story County, Iowa",Story County, Iowa,39531.0,86758.0,43179.0,3.6,2.1,16.7,7.6,69.9,30182.121000000003
+0500000US19193,"Woodbury County, Iowa",Woodbury County, Iowa,41191.0,102773.0,26786.0,8.4,5.9,45.3,19.4,21.0,5625.0599999999995
+0500000US20015,"Butler County, Kansas",Butler County, Kansas,25201.0,65462.0,16096.0,9.3,3.0,45.5,24.9,17.3,2784.608
+0500000US20045,"Douglas County, Kansas",Douglas County, Kansas,50248.0,112017.0,39560.0,3.4,3.4,23.1,12.9,57.2,22628.320000000003
+0500000US20091,"Johnson County, Kansas",Johnson County, Kansas,248469.0,613199.0,150085.0,6.7,5.0,43.7,23.0,21.5,32268.274999999998
+0500000US20103,"Leavenworth County, Kansas",Leavenworth County, Kansas,30271.0,79035.0,23090.0,9.0,5.0,41.2,15.9,28.8,6649.920000000001
+0500000US20161,"Riley County, Kansas",Riley County, Kansas,27884.0,60658.0,27275.0,3.3,4.8,15.2,8.5,68.2,18601.550000000003
+0500000US20173,"Sedgwick County, Kansas",Sedgwick County, Kansas,204815.0,514958.0,134992.0,5.1,4.0,44.0,22.8,24.0,32398.079999999998
+0500000US20177,"Shawnee County, Kansas",Shawnee County, Kansas,75895.0,172366.0,38706.0,5.1,3.7,48.8,21.5,20.9,8089.554
+0500000US20209,"Wyandotte County, Kansas",Wyandotte County, Kansas,62255.0,164189.0,43587.0,5.8,5.5,44.0,24.5,20.3,8848.161
+0500000US21015,"Boone County, Kentucky",Boone County, Kentucky,52041.0,137659.0,34941.0,6.6,3.0,45.3,24.2,20.9,7302.669
+0500000US21029,"Bullitt County, Kentucky",Bullitt County, Kentucky,32308.0,83729.0,16756.0,6.6,4.9,45.0,24.5,18.9,3166.8839999999996
+0500000US21037,"Campbell County, Kentucky",Campbell County, Kentucky,39836.0,90900.0,22493.0,8.0,4.8,38.2,18.8,30.3,6815.379
+0500000US21047,"Christian County, Kentucky",Christian County, Kentucky,25454.0,69007.0,15241.0,6.4,7.0,54.1,18.2,14.3,2179.463
+0500000US21059,"Daviess County, Kentucky",Daviess County, Kentucky,41111.0,101303.0,23916.0,8.6,7.6,44.8,22.6,16.4,3922.2239999999997
+0500000US21067,"Fayette County, Kentucky",Fayette County, Kentucky,140837.0,307747.0,83587.0,4.6,2.7,35.9,17.4,39.3,32849.691
+0500000US21093,"Hardin County, Kentucky",Hardin County, Kentucky,44414.0,107116.0,26104.0,6.5,5.6,46.4,27.0,14.6,3811.1839999999997
+0500000US21111,"Jefferson County, Kentucky",Jefferson County, Kentucky,336916.0,760541.0,173978.0,5.8,4.4,41.8,21.6,26.4,45930.192
+0500000US21117,"Kenton County, Kentucky",Kenton County, Kentucky,66791.0,168807.0,40267.0,7.1,4.7,42.8,24.5,20.9,8415.803
+0500000US21145,"McCracken County, Kentucky",McCracken County, Kentucky,26995.0,66507.0,16034.0,5.4,3.0,44.1,23.1,24.4,3912.296
+0500000US21151,"Madison County, Kentucky",Madison County, Kentucky,37118.0,89694.0,26210.0,2.3,3.7,31.8,15.4,46.8,12266.279999999999
+0500000US21185,"Oldham County, Kentucky",Oldham County, Kentucky,22519.0,65265.0,17527.0,8.0,2.5,46.8,26.4,16.3,2856.9010000000003
+0500000US21199,"Pulaski County, Kentucky",Pulaski County, Kentucky,27552.0,64578.0,13208.0,3.4,10.3,42.8,26.3,17.2,2271.776
+0500000US21227,"Warren County, Kentucky",Warren County, Kentucky,55234.0,134660.0,38471.0,5.6,6.9,30.2,19.8,37.5,14426.625
+0500000US22005,"Ascension Parish, Louisiana",Ascension Parish, Louisiana,48462.0,129651.0,34643.0,6.6,4.1,46.1,23.9,19.3,6686.099
+0500000US22015,"Bossier Parish, Louisiana",Bossier Parish, Louisiana,51316.0,126198.0,32135.0,4.0,5.6,43.5,21.8,25.0,8033.75
+0500000US22017,"Caddo Parish, Louisiana",Caddo Parish, Louisiana,95772.0,223386.0,54007.0,6.9,6.1,42.9,22.8,21.4,11557.498
+0500000US22019,"Calcasieu Parish, Louisiana",Calcasieu Parish, Louisiana,78144.0,200023.0,49374.0,5.0,4.1,48.5,22.4,20.1,9924.174
+0500000US22033,"East Baton Rouge Parish, Louisiana",East Baton Rouge Parish, Louisiana,180749.0,434126.0,130584.0,5.2,3.8,36.5,15.6,38.9,50797.176
+0500000US22045,"Iberia Parish, Louisiana",Iberia Parish, Louisiana,28039.0,67599.0,16230.0,6.4,8.9,46.2,23.1,15.3,2483.19
+0500000US22051,"Jefferson Parish, Louisiana",Jefferson Parish, Louisiana,176925.0,422621.0,93451.0,4.5,5.2,44.3,24.1,21.8,20372.318
+0500000US22055,"Lafayette Parish, Louisiana",Lafayette Parish, Louisiana,103581.0,245494.0,63396.0,7.9,3.8,41.0,20.4,26.8,16990.128
+0500000US22057,"Lafourche Parish, Louisiana",Lafourche Parish, Louisiana,38523.0,93263.0,19151.0,4.4,6.3,44.2,24.5,20.7,3964.2569999999996
+0500000US22063,"Livingston Parish, Louisiana",Livingston Parish, Louisiana,54424.0,147306.0,34407.0,3.0,7.0,50.0,21.9,18.1,6227.667
+0500000US22071,"Orleans Parish, Louisiana",Orleans Parish, Louisiana,150880.0,356196.0,93180.0,6.1,4.9,33.7,20.4,34.9,32519.819999999996
+0500000US22073,"Ouachita Parish, Louisiana",Ouachita Parish, Louisiana,63192.0,153013.0,38841.0,5.9,4.2,41.2,22.7,26.0,10098.66
+0500000US22079,"Rapides Parish, Louisiana",Rapides Parish, Louisiana,47887.0,123511.0,30692.0,7.3,4.0,44.6,24.4,19.6,6015.6320000000005
+0500000US22097,"St. Landry Parish, Louisiana",St. Landry Parish, Louisiana,32021.0,80617.0,21765.0,6.5,6.8,48.6,19.8,18.3,3982.995
+0500000US22103,"St. Tammany Parish, Louisiana",St. Tammany Parish, Louisiana,106109.0,271008.0,65212.0,7.7,6.5,45.9,21.1,18.8,12259.856
+0500000US22105,"Tangipahoa Parish, Louisiana",Tangipahoa Parish, Louisiana,51689.0,133065.0,36114.0,8.2,7.1,42.6,19.2,22.8,8233.992
+0500000US22109,"Terrebonne Parish, Louisiana",Terrebonne Parish, Louisiana,40011.0,103696.0,24550.0,10.3,8.9,46.0,21.2,13.6,3338.8
+0500000US23001,"Androscoggin County, Maine",Androscoggin County, Maine,46233.0,108931.0,24703.0,2.8,0.7,48.1,22.2,26.2,6472.186000000001
+0500000US23003,"Aroostook County, Maine",Aroostook County, Maine,31319.0,65629.0,12689.0,3.8,8.5,40.0,21.6,26.0,3299.1400000000003
+0500000US23005,"Cumberland County, Maine",Cumberland County, Maine,133103.0,298467.0,62667.0,4.4,7.2,37.0,21.6,29.9,18737.433
+0500000US23011,"Kennebec County, Maine",Kennebec County, Maine,54613.0,122011.0,25780.0,3.1,4.2,45.3,21.8,25.6,6599.68
+0500000US23019,"Penobscot County, Maine",Penobscot County, Maine,65940.0,147580.0,34170.0,2.4,8.7,32.4,18.0,38.5,13155.45
+0500000US23031,"York County, Maine",York County, Maine,92767.0,213611.0,40858.0,6.1,5.2,40.9,21.2,26.6,10868.228000000001
+0500000US24001,"Allegany County, Maryland",Allegany County, Maryland,26246.0,60960.0,13530.0,2.8,4.7,40.2,20.9,31.4,4248.42
+0500000US24003,"Anne Arundel County, Maryland",Anne Arundel County, Maryland,226285.0,583714.0,144242.0,6.8,5.7,40.6,21.0,25.9,37358.678
+0500000US24005,"Baltimore County, Maryland",Baltimore County, Maryland,337529.0,826424.0,208603.0,5.6,5.2,38.7,19.3,31.2,65084.136
+0500000US24009,"Calvert County, Maryland",Calvert County, Maryland,33577.0,93988.0,22649.0,8.3,4.1,42.3,28.7,16.5,3737.085
+0500000US24013,"Carroll County, Maryland",Carroll County, Maryland,64437.0,170789.0,42242.0,7.9,5.7,38.5,23.7,24.2,10222.564
+0500000US24015,"Cecil County, Maryland",Cecil County, Maryland,40707.0,102394.0,23955.0,7.5,3.0,41.8,25.6,22.1,5294.055
+0500000US24017,"Charles County, Maryland",Charles County, Maryland,62712.0,168746.0,43921.0,6.4,2.6,43.1,24.1,23.9,10497.118999999999
+0500000US24021,"Frederick County, Maryland",Frederick County, Maryland,104912.0,282618.0,73018.0,5.6,5.2,40.4,23.7,25.1,18327.518
+0500000US24025,"Harford County, Maryland",Harford County, Maryland,101437.0,262101.0,63534.0,6.6,4.2,42.3,23.6,23.3,14803.422
+0500000US24027,"Howard County, Maryland",Howard County, Maryland,121423.0,332694.0,91512.0,6.6,3.3,40.2,23.2,26.7,24433.704
+0500000US24031,"Montgomery County, Maryland",Montgomery County, Maryland,391297.0,1043841.0,261166.0,6.1,5.0,41.2,22.9,24.7,64508.002
+0500000US24033,"Prince George's County, Maryland",Prince George's County, Maryland,347207.0,925905.0,238982.0,5.5,5.0,38.1,17.7,33.7,80536.93400000001
+0500000US24037,"St. Mary's County, Maryland",St. Mary's County, Maryland,44392.0,112104.0,27593.0,5.3,6.5,39.8,17.8,30.7,8471.051
+0500000US24043,"Washington County, Maryland",Washington County, Maryland,59530.0,148600.0,34039.0,5.9,6.7,46.0,23.6,17.8,6058.942000000001
+0500000US24045,"Wicomico County, Maryland",Wicomico County, Maryland,40611.0,100982.0,28336.0,3.8,6.6,38.0,19.0,32.6,9237.536
+0500000US24510,"Baltimore city, Maryland",Baltimore city, Maryland,254707.0,551482.0,136743.0,5.2,5.9,36.5,16.9,35.5,48543.765
+0500000US25001,"Barnstable County, Massachusetts",Barnstable County, Massachusetts,107187.0,229359.0,34072.0,8.8,6.2,38.5,24.2,22.4,7632.127999999999
+0500000US25003,"Berkshire County, Massachusetts",Berkshire County, Massachusetts,58370.0,122019.0,23805.0,4.3,5.4,32.5,19.3,38.5,9164.925000000001
+0500000US25005,"Bristol County, Massachusetts",Bristol County, Massachusetts,233194.0,566111.0,132015.0,7.0,3.6,41.7,23.2,24.5,32343.675
+0500000US25009,"Essex County, Massachusetts",Essex County, Massachusetts,314003.0,789857.0,183927.0,7.9,4.9,39.5,23.3,24.5,45062.115
+0500000US25011,"Franklin County, Massachusetts",Franklin County, Massachusetts,32142.0,69354.0,13078.0,7.5,5.6,40.7,21.4,24.8,3243.344
+0500000US25013,"Hampden County, Massachusetts",Hampden County, Massachusetts,183441.0,448097.0,105295.0,6.5,3.5,41.7,23.8,24.5,25797.274999999998
+0500000US25015,"Hampshire County, Massachusetts",Hampshire County, Massachusetts,62178.0,140532.0,55643.0,3.9,2.0,18.4,10.3,65.3,36334.879
+0500000US25017,"Middlesex County, Massachusetts",Middlesex County, Massachusetts,638217.0,1558806.0,399247.0,6.8,4.7,34.2,19.8,34.5,137740.215
+0500000US25021,"Norfolk County, Massachusetts",Norfolk County, Massachusetts,281839.0,706672.0,178817.0,7.5,4.8,36.1,21.5,30.1,53823.917
+0500000US25023,"Plymouth County, Massachusetts",Plymouth County, Massachusetts,205217.0,522488.0,118693.0,7.8,5.0,39.6,24.1,23.5,27892.855
+0500000US25025,"Suffolk County, Massachusetts",Suffolk County, Massachusetts,330101.0,720504.0,197044.0,4.5,3.0,27.0,13.7,51.8,102068.792
+0500000US25027,"Worcester County, Massachusetts",Worcester County, Massachusetts,338087.0,835707.0,210209.0,5.5,3.6,37.8,20.6,32.5,68317.925
+0500000US26005,"Allegan County, Michigan",Allegan County, Michigan,45890.0,120092.0,25340.0,6.9,6.3,50.2,23.7,12.8,3243.52
+0500000US26017,"Bay County, Michigan",Bay County, Michigan,44664.0,101754.0,19377.0,5.0,5.3,42.5,24.8,22.4,4340.447999999999
+0500000US26021,"Berrien County, Michigan",Berrien County, Michigan,63311.0,149713.0,32091.0,5.1,6.1,45.0,24.9,18.9,6065.198999999999
+0500000US26025,"Calhoun County, Michigan",Calhoun County, Michigan,53388.0,129922.0,31341.0,5.6,7.2,41.6,21.1,24.5,7678.545
+0500000US26037,"Clinton County, Michigan",Clinton County, Michigan,31010.0,78779.0,19664.0,5.9,4.4,38.9,20.9,29.9,5879.536
+0500000US26045,"Eaton County, Michigan",Eaton County, Michigan,44942.0,107062.0,22389.0,5.7,6.5,38.3,27.9,21.6,4836.024
+0500000US26049,"Genesee County, Michigan",Genesee County, Michigan,167950.0,396923.0,87177.0,5.7,5.2,45.7,24.8,18.7,16302.099
+0500000US26055,"Grand Traverse County, Michigan",Grand Traverse County, Michigan,39581.0,94604.0,19088.0,8.0,3.2,45.7,27.8,15.3,2920.464
+0500000US26065,"Ingham County, Michigan",Ingham County, Michigan,118485.0,265054.0,87568.0,3.5,2.5,28.4,13.4,52.1,45622.928
+0500000US26067,"Ionia County, Michigan",Ionia County, Michigan,22878.0,63630.0,14100.0,6.9,5.3,46.9,26.9,14.1,1988.1
+0500000US26075,"Jackson County, Michigan",Jackson County, Michigan,63368.0,151665.0,36609.0,6.0,5.2,41.2,23.5,24.1,8822.769
+0500000US26077,"Kalamazoo County, Michigan",Kalamazoo County, Michigan,108397.0,254014.0,71725.0,5.8,7.2,30.6,15.8,40.6,29120.350000000002
+0500000US26081,"Kent County, Michigan",Kent County, Michigan,256173.0,647018.0,159422.0,6.6,4.3,44.1,22.7,22.4,35710.528
+0500000US26087,"Lapeer County, Michigan",Lapeer County, Michigan,35259.0,87438.0,19100.0,5.5,5.7,43.9,26.1,18.7,3571.7
+0500000US26091,"Lenawee County, Michigan",Lenawee County, Michigan,38264.0,94103.0,20471.0,7.1,4.6,46.2,20.2,21.9,4483.148999999999
+0500000US26093,"Livingston County, Michigan",Livingston County, Michigan,76620.0,194723.0,40966.0,6.1,6.2,43.6,23.7,20.4,8357.064
+0500000US26099,"Macomb County, Michigan",Macomb County, Michigan,359089.0,867158.0,191460.0,5.6,4.2,41.8,23.7,24.7,47290.62
+0500000US26103,"Marquette County, Michigan",Marquette County, Michigan,28633.0,61996.0,17223.0,4.0,3.1,31.6,15.0,46.3,7974.249
+0500000US26111,"Midland County, Michigan",Midland County, Michigan,35325.0,82495.0,17700.0,6.3,3.6,47.4,20.7,22.0,3894.0
+0500000US26115,"Monroe County, Michigan",Monroe County, Michigan,62946.0,154050.0,33477.0,5.3,3.3,45.5,23.4,22.4,7498.847999999999
+0500000US26117,"Montcalm County, Michigan",Montcalm County, Michigan,25218.0,65107.0,13379.0,5.2,6.8,42.2,30.7,15.1,2020.229
+0500000US26121,"Muskegon County, Michigan",Muskegon County, Michigan,67255.0,170563.0,37883.0,5.0,5.8,48.0,23.5,17.7,6705.290999999999
+0500000US26125,"Oakland County, Michigan",Oakland County, Michigan,530638.0,1256385.0,278913.0,7.9,5.3,38.7,23.5,24.6,68612.59800000001
+0500000US26139,"Ottawa County, Michigan",Ottawa County, Michigan,111425.0,289935.0,85422.0,5.4,5.1,35.1,18.0,36.4,31093.608
+0500000US26145,"Saginaw County, Michigan",Saginaw County, Michigan,79275.0,182421.0,42238.0,4.1,4.3,42.1,24.3,25.1,10601.738
+0500000US26147,"St. Clair County, Michigan",St. Clair County, Michigan,69109.0,158873.0,29768.0,6.8,4.9,45.9,25.7,16.6,4941.488
+0500000US26155,"Shiawassee County, Michigan",Shiawassee County, Michigan,28629.0,67368.0,14431.0,7.4,8.1,38.8,24.3,21.3,3073.803
+0500000US26159,"Van Buren County, Michigan",Van Buren County, Michigan,31239.0,74852.0,17011.0,9.2,3.6,47.4,21.9,17.9,3044.969
+0500000US26161,"Washtenaw County, Michigan",Washtenaw County, Michigan,150945.0,347611.0,119398.0,4.7,3.4,23.5,14.3,54.2,64713.71600000001
+0500000US26163,"Wayne County, Michigan",Wayne County, Michigan,691389.0,1737858.0,413027.0,5.3,5.4,42.4,23.9,23.0,94996.21
+0500000US27003,"Anoka County, Minnesota",Anoka County, Minnesota,138032.0,365412.0,87445.0,6.5,5.4,43.9,24.3,20.0,17489.0
+0500000US27013,"Blue Earth County, Minnesota",Blue Earth County, Minnesota,28182.0,65275.0,21600.0,4.0,2.5,27.4,16.9,49.2,10627.2
+0500000US27019,"Carver County, Minnesota",Carver County, Minnesota,41063.0,108910.0,28098.0,9.3,5.7,43.7,24.9,16.5,4636.17
+0500000US27027,"Clay County, Minnesota",Clay County, Minnesota,27301.0,63315.0,19801.0,7.7,3.8,40.0,16.0,32.5,6435.325
+0500000US27035,"Crow Wing County, Minnesota",Crow Wing County, Minnesota,28475.0,66717.0,14194.0,7.3,5.6,47.7,20.4,19.0,2696.86
+0500000US27037,"Dakota County, Minnesota",Dakota County, Minnesota,175139.0,439887.0,107290.0,7.0,5.7,43.7,24.5,19.3,20706.97
+0500000US27053,"Hennepin County, Minnesota",Hennepin County, Minnesota,542072.0,1230620.0,297893.0,6.4,4.1,39.9,21.2,28.3,84303.71900000001
+0500000US27109,"Olmsted County, Minnesota",Olmsted County, Minnesota,68745.0,160545.0,36782.0,6.0,4.0,51.1,20.1,18.9,6951.797999999999
+0500000US27123,"Ramsey County, Minnesota",Ramsey County, Minnesota,221871.0,519082.0,135963.0,6.1,5.8,39.6,21.7,26.9,36574.04699999999
+0500000US27131,"Rice County, Minnesota",Rice County, Minnesota,23616.0,60241.0,17876.0,4.3,2.6,36.2,18.4,38.4,6864.384
+0500000US27137,"St. Louis County, Minnesota",St. Louis County, Minnesota,87295.0,192391.0,45349.0,5.4,5.4,35.0,18.8,35.4,16053.545999999998
+0500000US27139,"Scott County, Minnesota",Scott County, Minnesota,54671.0,153267.0,40028.0,5.6,4.1,47.5,23.9,18.9,7565.291999999999
+0500000US27141,"Sherburne County, Minnesota",Sherburne County, Minnesota,35577.0,99050.0,25397.0,4.9,9.0,42.0,26.1,18.0,4571.46
+0500000US27145,"Stearns County, Minnesota",Stearns County, Minnesota,62331.0,152926.0,41379.0,4.7,3.7,35.4,21.6,34.6,14317.134000000002
+0500000US27163,"Washington County, Minnesota",Washington County, Minnesota,106606.0,272333.0,66038.0,6.5,5.7,46.7,22.9,18.3,12084.954
+0500000US27171,"Wright County, Minnesota",Wright County, Minnesota,54884.0,146947.0,37525.0,5.7,8.3,45.3,24.9,15.8,5928.95
+0500000US28033,"DeSoto County, Mississippi",DeSoto County, Mississippi,69746.0,190791.0,49682.0,4.7,4.9,42.4,24.3,23.7,11774.634
+0500000US28035,"Forrest County, Mississippi",Forrest County, Mississippi,30635.0,73619.0,25434.0,5.2,0.8,35.5,14.3,44.2,11241.828
+0500000US28047,"Harrison County, Mississippi",Harrison County, Mississippi,83711.0,206587.0,48306.0,5.9,5.6,42.0,25.5,21.0,10144.26
+0500000US28049,"Hinds County, Mississippi",Hinds County, Mississippi,88435.0,208830.0,60217.0,5.8,4.2,37.3,19.4,33.2,19992.044
+0500000US28059,"Jackson County, Mississippi",Jackson County, Mississippi,58331.0,143783.0,33245.0,6.5,4.4,43.5,25.3,20.3,6748.735000000001
+0500000US28067,"Jones County, Mississippi",Jones County, Mississippi,25249.0,64832.0,14740.0,5.5,3.3,46.4,28.1,16.7,2461.58
+0500000US28073,"Lamar County, Mississippi",Lamar County, Mississippi,24075.0,65484.0,16865.0,5.4,2.9,48.0,20.3,23.4,3946.41
+0500000US28075,"Lauderdale County, Mississippi",Lauderdale County, Mississippi,29478.0,68047.0,17981.0,4.6,4.4,47.8,15.2,28.1,5052.661
+0500000US28081,"Lee County, Mississippi",Lee County, Mississippi,31064.0,81750.0,20424.0,7.0,2.7,51.0,21.8,17.4,3553.776
+0500000US28089,"Madison County, Mississippi",Madison County, Mississippi,43293.0,109588.0,26982.0,5.3,8.8,42.7,28.0,15.2,4101.264
+0500000US28121,"Rankin County, Mississippi",Rankin County, Mississippi,58602.0,152690.0,36867.0,5.1,4.7,47.0,21.2,21.9,8073.872999999999
+0500000US29019,"Boone County, Missouri",Boone County, Missouri,77339.0,178142.0,63329.0,5.2,4.5,26.3,13.0,51.0,32297.79
+0500000US29021,"Buchanan County, Missouri",Buchanan County, Missouri,34353.0,79911.0,17940.0,5.3,3.1,51.2,23.8,16.7,2995.9799999999996
+0500000US29031,"Cape Girardeau County, Missouri",Cape Girardeau County, Missouri,33005.0,79124.0,21730.0,3.5,3.8,36.5,19.5,36.6,7953.179999999999
+0500000US29037,"Cass County, Missouri",Cass County, Missouri,43143.0,109430.0,22433.0,6.4,5.6,45.0,26.4,16.6,3723.878
+0500000US29043,"Christian County, Missouri",Christian County, Missouri,35652.0,92444.0,23256.0,6.7,4.3,52.4,22.2,14.4,3348.8640000000005
+0500000US29047,"Clay County, Missouri",Clay County, Missouri,102352.0,253904.0,61750.0,6.2,4.3,44.8,22.3,22.4,13831.999999999998
+0500000US29051,"Cole County, Missouri",Cole County, Missouri,30702.0,73365.0,18512.0,5.5,3.9,42.2,26.5,21.9,4054.1279999999997
+0500000US29071,"Franklin County, Missouri",Franklin County, Missouri,43809.0,104810.0,22372.0,6.1,7.4,46.4,23.5,16.6,3713.7520000000004
+0500000US29077,"Greene County, Missouri",Greene County, Missouri,130986.0,293687.0,72074.0,4.8,4.8,39.1,17.3,34.0,24505.160000000003
+0500000US29095,"Jackson County, Missouri",Jackson County, Missouri,309195.0,706628.0,164204.0,5.3,5.8,44.3,22.8,21.8,35796.472
+0500000US29097,"Jasper County, Missouri",Jasper County, Missouri,48405.0,121992.0,31523.0,4.0,6.3,42.6,24.3,22.7,7155.721
+0500000US29099,"Jefferson County, Missouri",Jefferson County, Missouri,88478.0,227433.0,50057.0,7.0,5.5,43.9,27.4,16.2,8109.234
+0500000US29165,"Platte County, Missouri",Platte County, Missouri,43009.0,109401.0,26004.0,7.4,4.4,46.5,20.1,21.7,5642.868
+0500000US29183,"St. Charles County, Missouri",St. Charles County, Missouri,163195.0,406917.0,94354.0,7.6,4.7,44.7,22.8,20.2,19059.507999999998
+0500000US29187,"St. Francois County, Missouri",St. Francois County, Missouri,24466.0,61449.0,14628.0,9.8,3.1,45.3,25.3,16.5,2413.62
+0500000US29189,"St. Louis County, Missouri",St. Louis County, Missouri,413258.0,969362.0,242723.0,8.3,5.3,39.1,21.2,26.1,63350.703
+0500000US29510,"St. Louis city, Missouri",St. Louis city, Missouri,148348.0,275693.0,58485.0,5.7,3.9,36.2,19.9,34.3,20060.355
+0500000US30013,"Cascade County, Montana",Cascade County, Montana,35343.0,81956.0,18893.0,3.5,6.2,51.5,18.4,20.4,3854.1719999999996
+0500000US30029,"Flathead County, Montana",Flathead County, Montana,46044.0,110283.0,20685.0,7.7,2.8,53.5,26.3,9.7,2006.4449999999997
+0500000US30031,"Gallatin County, Montana",Gallatin County, Montana,52616.0,120742.0,34308.0,4.1,5.3,30.9,13.9,45.8,15713.063999999998
+0500000US30049,"Lewis and Clark County, Montana",Lewis and Clark County, Montana,30541.0,72316.0,16458.0,5.9,9.8,39.7,18.1,26.5,4361.37
+0500000US30063,"Missoula County, Montana",Missoula County, Montana,53358.0,117884.0,25846.0,3.6,3.2,37.2,20.7,35.3,9123.637999999999
+0500000US30111,"Yellowstone County, Montana",Yellowstone County, Montana,70060.0,166417.0,36218.0,5.8,3.9,47.3,23.6,19.4,7026.2919999999995
+0500000US31055,"Douglas County, Nebraska",Douglas County, Nebraska,238829.0,574541.0,153640.0,4.8,6.0,40.3,22.9,26.0,39946.4
+0500000US31109,"Lancaster County, Nebraska",Lancaster County, Nebraska,132670.0,311828.0,97651.0,5.5,4.2,33.4,17.7,39.1,38181.541000000005
+0500000US31153,"Sarpy County, Nebraska",Sarpy County, Nebraska,75460.0,195467.0,53607.0,6.5,6.1,42.2,22.5,22.7,12168.788999999999
+0500000US32003,"Clark County, Nevada",Clark County, Nevada,857362.0,2305626.0,516392.0,4.0,6.2,44.5,23.6,21.8,112573.456
+0500000US32031,"Washoe County, Nevada",Washoe County, Nevada,198684.0,489894.0,110945.0,5.4,3.7,40.9,22.0,28.1,31175.545000000002
+0500000US33005,"Cheshire County, New Hampshire",Cheshire County, New Hampshire,31960.0,74118.0,16594.0,6.0,4.9,37.4,21.7,30.0,4978.2
+0500000US33009,"Grafton County, New Hampshire",Grafton County, New Hampshire,37847.0,84343.0,18854.0,4.7,2.4,33.7,18.9,40.3,7598.161999999999
+0500000US33011,"Hillsborough County, New Hampshire",Hillsborough County, New Hampshire,167816.0,419135.0,85928.0,6.9,4.8,41.5,24.0,22.7,19505.656
+0500000US33013,"Merrimack County, New Hampshire",Merrimack County, New Hampshire,62024.0,149567.0,31510.0,4.4,4.7,44.7,20.9,25.3,7972.03
+0500000US33015,"Rockingham County, New Hampshire",Rockingham County, New Hampshire,127290.0,317242.0,64590.0,7.8,5.1,39.6,25.3,22.2,14338.98
+0500000US33017,"Strafford County, New Hampshire",Strafford County, New Hampshire,51687.0,125802.0,30096.0,5.2,3.7,28.3,23.9,39.0,11737.44
+0500000US34001,"Atlantic County, New Jersey",Atlantic County, New Jersey,106972.0,269929.0,64871.0,6.5,6.4,39.3,22.8,25.0,16217.75
+0500000US34003,"Bergen County, New Jersey",Bergen County, New Jersey,354937.0,942013.0,228614.0,7.8,4.4,39.2,22.4,26.3,60125.482
+0500000US34005,"Burlington County, New Jersey",Burlington County, New Jersey,176334.0,454794.0,107898.0,7.6,4.7,40.5,21.6,25.5,27513.99
+0500000US34007,"Camden County, New Jersey",Camden County, New Jersey,203530.0,517964.0,122783.0,7.5,4.8,42.0,23.7,21.9,26889.476999999995
+0500000US34009,"Cape May County, New Jersey",Cape May County, New Jersey,48563.0,94219.0,16605.0,6.9,9.0,40.6,32.2,11.2,1859.7599999999998
+0500000US34011,"Cumberland County, New Jersey",Cumberland County, New Jersey,54961.0,143945.0,39061.0,6.6,5.6,42.7,26.4,18.7,7304.407
+0500000US34013,"Essex County, New Jersey",Essex County, New Jersey,321371.0,830371.0,227187.0,10.2,4.7,39.9,19.6,25.6,58159.872
+0500000US34015,"Gloucester County, New Jersey",Gloucester County, New Jersey,111781.0,299552.0,77150.0,5.4,5.1,38.6,19.6,31.4,24225.1
+0500000US34017,"Hudson County, New Jersey",Hudson County, New Jersey,304526.0,695417.0,150673.0,6.9,6.1,40.7,17.1,29.3,44147.189
+0500000US34019,"Hunterdon County, New Jersey",Hunterdon County, New Jersey,50515.0,127079.0,27698.0,9.1,3.5,40.8,23.7,22.9,6342.842
+0500000US34021,"Mercer County, New Jersey",Mercer County, New Jersey,144989.0,363936.0,98830.0,6.1,4.1,36.7,22.3,30.9,30538.47
+0500000US34023,"Middlesex County, New Jersey",Middlesex County, New Jersey,306950.0,836449.0,224339.0,6.4,4.3,36.6,20.2,32.5,72910.175
+0500000US34025,"Monmouth County, New Jersey",Monmouth County, New Jersey,253767.0,636785.0,148472.0,7.9,4.4,39.3,24.2,24.2,35930.224
+0500000US34027,"Morris County, New Jersey",Morris County, New Jersey,194141.0,502556.0,124182.0,9.1,4.5,37.1,23.7,25.6,31790.592
+0500000US34029,"Ocean County, New Jersey",Ocean County, New Jersey,241983.0,648390.0,163303.0,8.5,4.9,44.4,20.8,21.5,35110.145
+0500000US34031,"Passaic County, New Jersey",Passaic County, New Jersey,179292.0,504546.0,136552.0,8.0,6.1,39.0,19.5,27.4,37415.24799999999
+0500000US34033,"Salem County, New Jersey",Salem County, New Jersey,25221.0,63862.0,13200.0,4.9,9.1,41.0,23.0,22.0,2904.0
+0500000US34035,"Somerset County, New Jersey",Somerset County, New Jersey,130178.0,342599.0,80436.0,5.5,5.2,40.6,25.9,22.8,18339.408
+0500000US34037,"Sussex County, New Jersey",Sussex County, New Jersey,58885.0,144209.0,29089.0,7.6,4.9,43.4,26.3,17.8,5177.842000000001
+0500000US34039,"Union County, New Jersey",Union County, New Jersey,202575.0,564759.0,142111.0,7.7,6.3,40.9,22.0,23.1,32827.641
+0500000US34041,"Warren County, New Jersey",Warren County, New Jersey,45507.0,108857.0,24009.0,5.8,4.1,42.7,19.1,28.3,6794.5470000000005
+0500000US35001,"Bernalillo County, New Mexico",Bernalillo County, New Mexico,286424.0,662159.0,156276.0,4.5,4.7,39.7,22.2,28.9,45163.763999999996
+0500000US35013,"Doña Ana County, New Mexico",Doña Ana County, New Mexico,85746.0,218243.0,68687.0,5.2,4.9,34.4,17.2,38.3,26307.120999999996
+0500000US35025,"Lea County, New Mexico",Lea County, New Mexico,25580.0,70129.0,18444.0,0.6,7.7,50.5,27.3,13.9,2563.7160000000003
+0500000US35031,"McKinley County, New Mexico",McKinley County, New Mexico,21296.0,68759.0,19571.0,6.5,5.3,50.4,23.0,14.8,2896.5080000000003
+0500000US35035,"Otero County, New Mexico",Otero County, New Mexico,24963.0,64634.0,14708.0,2.4,4.2,45.7,19.3,28.4,4177.071999999999
+0500000US35043,"Sandoval County, New Mexico",Sandoval County, New Mexico,57614.0,152667.0,36347.0,4.1,6.4,43.0,21.2,25.3,9195.791
+0500000US35045,"San Juan County, New Mexico",San Juan County, New Mexico,41542.0,118911.0,30196.0,5.4,3.6,51.0,24.2,15.8,4770.968
+0500000US35049,"Santa Fe County, New Mexico",Santa Fe County, New Mexico,72302.0,152908.0,28039.0,3.8,6.2,41.7,21.3,27.0,7570.530000000001
+0500000US35061,"Valencia County, New Mexico",Valencia County, New Mexico,29080.0,76430.0,18409.0,7.0,1.5,45.7,26.7,19.1,3516.119
+0500000US36001,"Albany County, New York",Albany County, New York,133811.0,297306.0,77873.0,4.5,3.5,32.0,17.3,42.6,33173.898
+0500000US36005,"Bronx County, New York",Bronx County, New York,533035.0,1332238.0,367025.0,6.4,4.9,41.5,21.1,26.1,95793.52500000001
+0500000US36007,"Broome County, New York",Broome County, New York,82108.0,184764.0,55430.0,6.0,3.5,31.5,13.6,45.3,25109.789999999997
+0500000US36009,"Cattaraugus County, New York",Cattaraugus County, New York,32016.0,73610.0,16999.0,4.3,7.9,40.8,22.3,24.7,4198.753
+0500000US36011,"Cayuga County, New York",Cayuga County, New York,32108.0,71539.0,14032.0,5.9,5.3,48.6,22.6,17.5,2455.6
+0500000US36013,"Chautauqua County, New York",Chautauqua County, New York,54431.0,121213.0,26442.0,4.9,6.5,43.0,20.3,25.4,6716.268
+0500000US36015,"Chemung County, New York",Chemung County, New York,34319.0,77976.0,17373.0,4.5,5.7,46.4,19.8,23.6,4100.028
+0500000US36019,"Clinton County, New York",Clinton County, New York,33231.0,72506.0,16127.0,3.2,5.2,36.5,21.3,33.8,5450.9259999999995
+0500000US36027,"Dutchess County, New York",Dutchess County, New York,117028.0,278500.0,70201.0,5.9,4.8,34.3,18.3,36.7,25763.767000000003
+0500000US36029,"Erie County, New York",Erie County, New York,411422.0,922410.0,215798.0,5.1,5.9,38.5,19.9,30.6,66034.188
+0500000US36045,"Jefferson County, New York",Jefferson County, New York,46815.0,111088.0,26069.0,5.4,6.5,45.6,18.8,23.8,6204.4220000000005
+0500000US36047,"Kings County, New York",Kings County, New York,1026361.0,2546470.0,621525.0,8.2,5.6,41.1,20.1,25.0,155381.25
+0500000US36053,"Madison County, New York",Madison County, New York,27515.0,61066.0,17334.0,4.8,3.9,32.1,16.9,42.3,7332.282
+0500000US36055,"Monroe County, New York",Monroe County, New York,319346.0,724426.0,175953.0,5.9,5.4,36.8,20.4,31.5,55425.195
+0500000US36059,"Nassau County, New York",Nassau County, New York,456149.0,1363737.0,338099.0,6.0,4.4,39.2,22.2,28.3,95682.017
+0500000US36061,"New York County, New York",New York County, New York,803844.0,1522388.0,325897.0,5.6,3.8,30.5,15.2,44.9,146327.753
+0500000US36063,"Niagara County, New York",Niagara County, New York,94001.0,206435.0,42945.0,7.0,5.0,44.1,20.2,23.7,10177.965
+0500000US36065,"Oneida County, New York",Oneida County, New York,98267.0,215747.0,52357.0,5.5,4.3,45.1,20.7,24.4,12775.108
+0500000US36067,"Onondaga County, New York",Onondaga County, New York,200340.0,444386.0,119158.0,5.9,2.7,38.1,18.8,34.6,41228.668000000005
+0500000US36069,"Ontario County, New York",Ontario County, New York,48181.0,108164.0,24157.0,2.6,4.2,42.3,18.3,32.6,7875.182000000001
+0500000US36071,"Orange County, New York",Orange County, New York,139757.0,392451.0,108469.0,6.2,5.5,40.9,24.9,22.5,24405.525
+0500000US36075,"Oswego County, New York",Oswego County, New York,48142.0,113719.0,26992.0,3.1,4.6,39.1,22.7,30.5,8232.56
+0500000US36079,"Putnam County, New York",Putnam County, New York,36104.0,95523.0,21797.0,5.4,3.9,37.6,27.3,25.9,5645.423
+0500000US36081,"Queens County, New York",Queens County, New York,839853.0,2245548.0,511084.0,7.2,5.1,37.3,20.0,30.3,154858.452
+0500000US36083,"Rensselaer County, New York",Rensselaer County, New York,66238.0,152271.0,35836.0,3.7,4.1,38.4,20.9,32.9,11790.043999999998
+0500000US36085,"Richmond County, New York",Richmond County, New York,169946.0,483920.0,118802.0,6.0,4.3,40.3,22.2,27.2,32314.144000000004
+0500000US36087,"Rockland County, New York",Rockland County, New York,104003.0,331980.0,100903.0,7.9,5.4,44.1,20.9,21.6,21795.048000000003
+0500000US36089,"St. Lawrence County, New York",St. Lawrence County, New York,41906.0,97285.0,26881.0,3.6,3.5,33.8,21.1,37.9,10187.899
+0500000US36091,"Saratoga County, New York",Saratoga County, New York,101315.0,234737.0,51926.0,7.2,3.5,40.9,21.5,27.0,14020.02
+0500000US36093,"Schenectady County, New York",Schenectady County, New York,65758.0,154983.0,38230.0,8.4,3.6,42.0,19.4,26.7,10207.41
+0500000US36101,"Steuben County, New York",Steuben County, New York,40347.0,90899.0,18329.0,7.6,4.2,51.5,23.2,13.4,2456.0860000000002
+0500000US36103,"Suffolk County, New York",Suffolk County, New York,511964.0,1497037.0,354559.0,6.4,4.2,38.5,23.0,27.9,98921.961
+0500000US36105,"Sullivan County, New York",Sullivan County, New York,32758.0,75073.0,15424.0,3.6,3.9,50.1,23.5,18.8,2899.712
+0500000US36109,"Tompkins County, New York",Tompkins County, New York,42108.0,89392.0,41599.0,2.0,1.7,15.0,9.6,71.6,29784.884
+0500000US36111,"Ulster County, New York",Ulster County, New York,75187.0,166742.0,36966.0,4.0,5.5,38.8,19.6,32.2,11903.052
+0500000US36113,"Warren County, New York",Warren County, New York,30646.0,64276.0,11700.0,8.0,5.8,41.9,20.4,24.0,2808.0
+0500000US36117,"Wayne County, New York",Wayne County, New York,36958.0,88675.0,17251.0,6.9,8.9,44.9,25.3,14.0,2415.1400000000003
+0500000US36119,"Westchester County, New York",Westchester County, New York,373505.0,963593.0,245395.0,7.4,4.2,38.8,22.7,26.9,66011.25499999999
+0500000US37001,"Alamance County, North Carolina",Alamance County, North Carolina,70125.0,169664.0,43097.0,3.5,3.8,39.1,24.1,29.5,12713.615
+0500000US37019,"Brunswick County, North Carolina",Brunswick County, North Carolina,69478.0,152213.0,23960.0,4.5,5.9,39.8,23.4,26.5,6349.400000000001
+0500000US37021,"Buncombe County, North Carolina",Buncombe County, North Carolina,103428.0,265988.0,54661.0,5.8,4.9,43.0,17.8,28.5,15578.384999999998
+0500000US37023,"Burke County, North Carolina",Burke County, North Carolina,37296.0,85152.0,14973.0,3.1,7.0,43.6,24.3,22.1,3309.033
+0500000US37025,"Cabarrus County, North Carolina",Cabarrus County, North Carolina,87195.0,234253.0,60337.0,7.8,3.8,42.3,25.1,20.9,12610.432999999999
+0500000US37027,"Caldwell County, North Carolina",Caldwell County, North Carolina,33429.0,79642.0,15797.0,4.3,4.6,53.2,19.8,18.1,2859.2570000000005
+0500000US37031,"Carteret County, North Carolina",Carteret County, North Carolina,31294.0,68239.0,12152.0,6.8,3.7,44.1,23.2,22.2,2697.744
+0500000US37035,"Catawba County, North Carolina",Catawba County, North Carolina,67237.0,161024.0,33984.0,4.8,8.9,38.8,26.7,20.8,7068.6720000000005
+0500000US37037,"Chatham County, North Carolina",Chatham County, North Carolina,34020.0,79043.0,16503.0,3.8,5.6,38.0,30.2,22.3,3680.169
+0500000US37045,"Cleveland County, North Carolina",Cleveland County, North Carolina,38712.0,98760.0,23214.0,5.2,5.9,44.2,24.4,20.3,4712.442
+0500000US37049,"Craven County, North Carolina",Craven County, North Carolina,42575.0,97162.0,21379.0,2.5,4.9,43.3,25.9,23.5,5024.065
+0500000US37051,"Cumberland County, North Carolina",Cumberland County, North Carolina,132366.0,319657.0,88622.0,5.0,4.4,42.6,20.1,27.9,24725.537999999997
+0500000US37057,"Davidson County, North Carolina",Davidson County, North Carolina,68813.0,171027.0,35884.0,7.5,4.9,44.8,24.7,18.0,6459.12
+0500000US37063,"Durham County, North Carolina",Durham County, North Carolina,140637.0,319851.0,80947.0,5.3,2.5,35.4,19.0,37.8,30597.965999999997
+0500000US37067,"Forsyth County, North Carolina",Forsyth County, North Carolina,156738.0,378507.0,98257.0,3.8,4.1,37.4,25.2,29.5,28985.815
+0500000US37069,"Franklin County, North Carolina",Franklin County, North Carolina,27803.0,73141.0,14247.0,4.6,4.8,49.9,23.8,16.8,2393.496
+0500000US37071,"Gaston County, North Carolina",Gaston County, North Carolina,95687.0,230861.0,48642.0,5.1,7.8,43.2,26.4,17.5,8512.35
+0500000US37081,"Guilford County, North Carolina",Guilford County, North Carolina,220704.0,519676.0,154826.0,3.4,4.0,35.5,19.2,38.0,58833.88
+0500000US37085,"Harnett County, North Carolina",Harnett County, North Carolina,50584.0,135763.0,35592.0,4.5,6.0,44.1,19.0,26.4,9396.288
+0500000US37089,"Henderson County, North Carolina",Henderson County, North Carolina,52076.0,116614.0,23152.0,9.1,2.7,45.4,20.5,22.3,5162.896
+0500000US37097,"Iredell County, North Carolina",Iredell County, North Carolina,74346.0,193758.0,39683.0,4.1,5.6,41.4,29.6,19.3,7658.819
+0500000US37101,"Johnston County, North Carolina",Johnston County, North Carolina,85906.0,232743.0,57343.0,5.6,4.0,43.6,26.0,20.8,11927.344000000001
+0500000US37105,"Lee County, North Carolina",Lee County, North Carolina,25234.0,64615.0,15052.0,6.6,3.5,55.1,21.7,13.2,1986.864
+0500000US37109,"Lincoln County, North Carolina",Lincoln County, North Carolina,37830.0,92307.0,18926.0,8.0,4.4,44.3,22.0,21.2,4012.312
+0500000US37119,"Mecklenburg County, North Carolina",Mecklenburg County, North Carolina,472427.0,1129114.0,268768.0,6.7,5.3,41.9,21.4,24.7,66385.696
+0500000US37125,"Moore County, North Carolina",Moore County, North Carolina,44625.0,104581.0,25451.0,11.7,4.2,40.6,20.4,23.1,5879.1810000000005
+0500000US37127,"Nash County, North Carolina",Nash County, North Carolina,38214.0,94115.0,20570.0,3.6,3.9,46.5,23.0,23.0,4731.1
+0500000US37129,"New Hanover County, North Carolina",New Hanover County, North Carolina,103978.0,229881.0,50283.0,6.8,4.8,33.0,18.8,36.6,18403.578
+0500000US37133,"Onslow County, North Carolina",Onslow County, North Carolina,75898.0,185863.0,46926.0,7.6,6.7,43.6,17.0,25.0,11731.5
+0500000US37135,"Orange County, North Carolina",Orange County, North Carolina,58048.0,139194.0,54158.0,3.7,2.5,26.2,13.4,54.2,29353.636000000002
+0500000US37141,"Pender County, North Carolina",Pender County, North Carolina,26039.0,64640.0,14191.0,4.9,6.1,46.9,21.1,21.0,2980.1099999999997
+0500000US37147,"Pitt County, North Carolina",Pitt County, North Carolina,74938.0,168296.0,50818.0,3.1,4.6,30.1,16.8,45.4,23071.372
+0500000US37151,"Randolph County, North Carolina",Randolph County, North Carolina,58218.0,144307.0,31274.0,5.4,7.5,43.3,24.5,19.4,6067.155999999999
+0500000US37155,"Robeson County, North Carolina",Robeson County, North Carolina,43716.0,113155.0,28840.0,4.2,6.0,43.6,21.5,24.7,7123.48
+0500000US37157,"Rockingham County, North Carolina",Rockingham County, North Carolina,39830.0,91016.0,17607.0,4.1,5.0,54.8,23.6,12.5,2200.875
+0500000US37159,"Rowan County, North Carolina",Rowan County, North Carolina,58190.0,145515.0,31679.0,4.4,6.2,47.2,22.3,19.9,6304.120999999999
+0500000US37171,"Surry County, North Carolina",Surry County, North Carolina,31038.0,69966.0,14601.0,3.8,9.4,41.5,26.4,18.9,2759.5889999999995
+0500000US37179,"Union County, North Carolina",Union County, North Carolina,84214.0,246302.0,61580.0,4.6,3.0,49.0,28.9,14.4,8867.52
+0500000US37183,"Wake County, North Carolina",Wake County, North Carolina,445464.0,1152296.0,305660.0,6.7,5.0,38.2,21.6,28.6,87418.76000000001
+0500000US37191,"Wayne County, North Carolina",Wayne County, North Carolina,47283.0,114311.0,26541.0,3.9,4.6,49.0,20.4,22.0,5839.02
+0500000US37193,"Wilkes County, North Carolina",Wilkes County, North Carolina,26947.0,64767.0,9685.0,3.0,1.0,48.9,26.7,20.4,1975.7399999999998
+0500000US37195,"Wilson County, North Carolina",Wilson County, North Carolina,33587.0,77231.0,16460.0,1.0,9.1,51.6,24.5,13.8,2271.48
+0500000US38015,"Burleigh County, North Dakota",Burleigh County, North Dakota,41761.0,95044.0,23124.0,3.8,3.6,42.6,22.4,27.6,6382.224
+0500000US38017,"Cass County, North Dakota",Cass County, North Dakota,82870.0,186044.0,54874.0,5.5,5.3,33.0,15.3,40.9,22443.466
+0500000US38035,"Grand Forks County, North Dakota",Grand Forks County, North Dakota,30068.0,67572.0,23219.0,1.4,5.4,26.0,10.0,57.2,13281.268000000002
+0500000US38101,"Ward County, North Dakota",Ward County, North Dakota,29301.0,66927.0,17956.0,4.0,5.2,40.4,18.2,32.2,5781.832
+0500000US39003,"Allen County, Ohio",Allen County, Ohio,41028.0,98596.0,22607.0,5.8,3.7,48.2,22.4,20.0,4521.400000000001
+0500000US39007,"Ashtabula County, Ohio",Ashtabula County, Ohio,38898.0,93581.0,18911.0,5.2,7.3,48.4,21.9,17.3,3271.603
+0500000US39013,"Belmont County, Ohio",Belmont County, Ohio,26781.0,61881.0,11469.0,6.2,9.3,40.4,26.7,17.4,1995.6059999999998
+0500000US39017,"Butler County, Ohio",Butler County, Ohio,148259.0,377315.0,105288.0,6.8,6.8,35.7,18.5,32.1,33797.448000000004
+0500000US39023,"Clark County, Ohio",Clark County, Ohio,56033.0,132497.0,28210.0,6.6,9.3,44.2,20.5,19.4,5472.74
+0500000US39025,"Clermont County, Ohio",Clermont County, Ohio,84660.0,208525.0,45751.0,10.4,7.2,42.0,23.7,16.7,7640.4169999999995
+0500000US39029,"Columbiana County, Ohio",Columbiana County, Ohio,40326.0,97394.0,18203.0,4.9,6.5,48.5,28.1,12.0,2184.36
+0500000US39035,"Cuyahoga County, Ohio",Cuyahoga County, Ohio,554982.0,1208670.0,278903.0,7.4,4.6,39.8,21.6,26.6,74188.198
+0500000US39041,"Delaware County, Ohio",Delaware County, Ohio,82755.0,224342.0,56161.0,6.1,4.5,46.1,26.1,17.2,9659.692
+0500000US39043,"Erie County, Ohio",Erie County, Ohio,33454.0,71609.0,16102.0,19.4,3.7,35.6,24.1,17.2,2769.544
+0500000US39045,"Fairfield County, Ohio",Fairfield County, Ohio,60387.0,159541.0,36921.0,5.3,6.9,44.9,23.1,19.8,7310.358
+0500000US39049,"Franklin County, Ohio",Franklin County, Ohio,550153.0,1292482.0,328157.0,5.6,5.5,40.3,19.7,29.0,95165.53
+0500000US39055,"Geauga County, Ohio",Geauga County, Ohio,35775.0,94288.0,18321.0,3.1,6.3,51.9,23.7,15.2,2784.792
+0500000US39057,"Greene County, Ohio",Greene County, Ohio,66598.0,162059.0,43531.0,5.6,5.5,33.8,18.4,36.7,15975.877000000002
+0500000US39061,"Hamilton County, Ohio",Hamilton County, Ohio,355784.0,805335.0,209582.0,5.6,4.6,39.2,21.2,29.4,61617.108
+0500000US39063,"Hancock County, Ohio",Hancock County, Ohio,32136.0,73071.0,16479.0,6.3,6.5,37.3,27.3,22.6,3724.254
+0500000US39085,"Lake County, Ohio",Lake County, Ohio,100923.0,229010.0,46631.0,8.4,4.4,43.5,24.0,19.7,9186.306999999999
+0500000US39089,"Licking County, Ohio",Licking County, Ohio,70064.0,178063.0,40758.0,5.0,5.0,43.6,27.3,19.1,7784.778
+0500000US39093,"Lorain County, Ohio",Lorain County, Ohio,126500.0,307966.0,76886.0,7.2,3.6,40.3,22.9,26.0,19990.36
+0500000US39095,"Lucas County, Ohio",Lucas County, Ohio,187290.0,418571.0,104708.0,5.3,5.4,39.6,23.0,26.7,27957.036
+0500000US39099,"Mahoning County, Ohio",Mahoning County, Ohio,99004.0,219651.0,50250.0,5.6,4.8,41.0,22.9,25.8,12964.5
+0500000US39101,"Marion County, Ohio",Marion County, Ohio,24930.0,59341.0,13925.0,3.7,10.9,38.7,25.5,21.2,2952.1
+0500000US39103,"Medina County, Ohio",Medina County, Ohio,73250.0,181954.0,41154.0,6.0,3.5,46.4,24.0,20.1,8271.954
+0500000US39109,"Miami County, Ohio",Miami County, Ohio,45891.0,109283.0,24052.0,8.8,5.0,48.2,23.2,14.8,3559.6960000000004
+0500000US39113,"Montgomery County, Ohio",Montgomery County, Ohio,235545.0,517377.0,126449.0,5.3,5.1,42.8,17.9,28.9,36543.761
+0500000US39119,"Muskingum County, Ohio",Muskingum County, Ohio,35912.0,84432.0,19289.0,9.8,3.7,39.9,26.3,20.3,3915.6670000000004
+0500000US39133,"Portage County, Ohio",Portage County, Ohio,64437.0,155181.0,41245.0,3.3,2.7,30.1,16.2,47.6,19632.620000000003
+0500000US39139,"Richland County, Ohio",Richland County, Ohio,50248.0,118472.0,27477.0,4.1,4.8,44.6,27.9,18.7,5138.199
+0500000US39141,"Ross County, Ohio",Ross County, Ohio,29399.0,71388.0,16020.0,6.2,5.0,47.0,21.7,20.0,3204.0
+0500000US39145,"Scioto County, Ohio",Scioto County, Ohio,29715.0,69308.0,14683.0,5.2,4.4,46.9,24.1,19.4,2848.5019999999995
+0500000US39151,"Stark County, Ohio",Stark County, Ohio,155070.0,365388.0,81175.0,4.6,7.7,42.5,23.5,21.7,17614.975
+0500000US39153,"Summit County, Ohio",Summit County, Ohio,230471.0,527166.0,119991.0,6.0,4.4,41.8,21.8,26.0,31197.66
+0500000US39155,"Trumbull County, Ohio",Trumbull County, Ohio,84721.0,197075.0,37958.0,3.6,7.2,49.0,25.1,15.1,5731.657999999999
+0500000US39157,"Tuscarawas County, Ohio",Tuscarawas County, Ohio,38476.0,90863.0,17565.0,5.1,4.7,57.8,23.4,9.0,1580.85
+0500000US39159,"Union County, Ohio",Union County, Ohio,24987.0,65278.0,15098.0,8.0,5.6,44.1,27.0,15.3,2309.994
+0500000US39165,"Warren County, Ohio",Warren County, Ohio,93817.0,244878.0,60376.0,6.2,4.5,43.6,27.3,18.4,11109.184
+0500000US39169,"Wayne County, Ohio",Wayne County, Ohio,44042.0,112446.0,25930.0,5.5,5.2,49.7,18.3,21.3,5523.09
+0500000US39173,"Wood County, Ohio",Wood County, Ohio,55064.0,125511.0,37945.0,4.3,5.0,31.3,14.9,44.4,16847.58
+0500000US40017,"Canadian County, Oklahoma",Canadian County, Oklahoma,59025.0,166781.0,41102.0,7.7,3.3,48.8,23.4,16.8,6905.136
+0500000US40027,"Cleveland County, Oklahoma",Cleveland County, Oklahoma,117629.0,287620.0,86375.0,5.3,3.8,30.4,17.7,42.8,36968.5
+0500000US40031,"Comanche County, Oklahoma",Comanche County, Oklahoma,45966.0,113958.0,29461.0,5.7,6.9,45.9,19.3,22.1,6510.881
+0500000US40037,"Creek County, Oklahoma",Creek County, Oklahoma,27921.0,71839.0,15946.0,6.1,5.4,50.7,24.0,13.8,2200.5480000000002
+0500000US40101,"Muskogee County, Oklahoma",Muskogee County, Oklahoma,25751.0,62428.0,16476.0,7.5,5.1,40.8,26.2,20.4,3361.104
+0500000US40109,"Oklahoma County, Oklahoma",Oklahoma County, Oklahoma,324396.0,787882.0,205618.0,5.8,5.8,42.8,21.8,23.8,48937.084
+0500000US40119,"Payne County, Oklahoma",Payne County, Oklahoma,33781.0,73297.0,30008.0,4.4,5.7,16.1,11.2,62.7,18815.016
+0500000US40125,"Pottawatomie County, Oklahoma",Pottawatomie County, Oklahoma,26887.0,69831.0,17998.0,6.4,4.2,44.8,23.1,21.5,3869.57
+0500000US40131,"Rogers County, Oklahoma",Rogers County, Oklahoma,36894.0,96955.0,23546.0,5.1,4.6,45.7,24.2,20.5,4826.929999999999
+0500000US40143,"Tulsa County, Oklahoma",Tulsa County, Oklahoma,273687.0,665914.0,170443.0,6.1,5.1,44.5,22.8,21.6,36815.688
+0500000US40145,"Wagoner County, Oklahoma",Wagoner County, Oklahoma,31805.0,86356.0,21066.0,5.9,7.6,43.1,25.0,18.4,3876.144
+0500000US41003,"Benton County, Oregon",Benton County, Oregon,38831.0,90998.0,33497.0,3.6,2.0,22.0,9.7,62.7,21002.619
+0500000US41005,"Clackamas County, Oregon",Clackamas County, Oregon,163805.0,418638.0,86983.0,5.9,6.3,44.4,25.0,18.3,15917.889
+0500000US41017,"Deschutes County, Oregon",Deschutes County, Oregon,85108.0,205263.0,35176.0,7.3,4.7,46.6,26.2,15.2,5346.7519999999995
+0500000US41019,"Douglas County, Oregon",Douglas County, Oregon,47263.0,110078.0,20650.0,7.1,4.0,45.1,27.3,16.5,3407.25
+0500000US41029,"Jackson County, Oregon",Jackson County, Oregon,92554.0,217593.0,45151.0,3.5,3.6,46.6,24.7,21.6,9752.616000000002
+0500000US41033,"Josephine County, Oregon",Josephine County, Oregon,36633.0,86308.0,16593.0,3.2,2.9,49.9,24.8,19.2,3185.856
+0500000US41035,"Klamath County, Oregon",Klamath County, Oregon,28643.0,68672.0,15431.0,4.1,9.1,39.3,20.3,27.1,4181.801
+0500000US41039,"Lane County, Oregon",Lane County, Oregon,160316.0,372410.0,88085.0,3.4,3.4,36.0,17.2,40.0,35234.0
+0500000US41043,"Linn County, Oregon",Linn County, Oregon,51267.0,128923.0,27639.0,6.5,5.4,47.7,23.2,17.3,4781.5470000000005
+0500000US41047,"Marion County, Oregon",Marion County, Oregon,128254.0,336128.0,79416.0,3.7,4.8,46.3,26.8,18.5,14691.96
+0500000US41051,"Multnomah County, Oregon",Multnomah County, Oregon,346491.0,774468.0,162929.0,6.8,5.2,36.0,20.3,31.7,51648.493
+0500000US41053,"Polk County, Oregon",Polk County, Oregon,33130.0,87501.0,23110.0,1.4,7.3,33.6,23.8,34.0,7857.400000000001
+0500000US41059,"Umatilla County, Oregon",Umatilla County, Oregon,30083.0,75727.0,19152.0,3.4,2.8,53.5,25.2,15.2,2911.104
+0500000US41067,"Washington County, Oregon",Washington County, Oregon,237319.0,592290.0,138782.0,8.0,4.7,39.9,23.5,23.9,33168.898
+0500000US41071,"Yamhill County, Oregon",Yamhill County, Oregon,38601.0,102763.0,23050.0,3.3,3.1,46.7,23.2,23.7,5462.849999999999
+0500000US42001,"Adams County, Pennsylvania",Adams County, Pennsylvania,40676.0,101463.0,22791.0,3.2,5.4,38.3,23.1,29.9,6814.509
+0500000US42003,"Allegheny County, Pennsylvania",Allegheny County, Pennsylvania,539000.0,1195686.0,268725.0,6.4,5.1,36.1,19.2,33.2,89216.70000000001
+0500000US42005,"Armstrong County, Pennsylvania",Armstrong County, Pennsylvania,27720.0,63969.0,11762.0,7.1,6.7,46.7,25.3,14.2,1670.204
+0500000US42007,"Beaver County, Pennsylvania",Beaver County, Pennsylvania,72129.0,163072.0,32078.0,5.9,4.8,43.5,25.8,19.9,6383.521999999999
+0500000US42011,"Berks County, Pennsylvania",Berks County, Pennsylvania,162183.0,417156.0,99929.0,6.4,4.9,42.2,23.4,23.1,23083.599000000002
+0500000US42013,"Blair County, Pennsylvania",Blair County, Pennsylvania,52260.0,116384.0,24135.0,6.3,5.7,44.1,22.1,21.8,5261.43
+0500000US42017,"Bucks County, Pennsylvania",Bucks County, Pennsylvania,250774.0,635962.0,141268.0,5.8,4.9,41.1,24.3,23.9,33763.051999999996
+0500000US42019,"Butler County, Pennsylvania",Butler County, Pennsylvania,80941.0,191887.0,42490.0,5.0,5.0,40.1,22.5,27.5,11684.750000000002
+0500000US42021,"Cambria County, Pennsylvania",Cambria County, Pennsylvania,55225.0,125163.0,28229.0,4.7,5.2,39.2,22.7,28.2,7960.5779999999995
+0500000US42025,"Carbon County, Pennsylvania",Carbon County, Pennsylvania,27966.0,64630.0,11943.0,3.2,2.8,49.4,21.8,22.8,2723.004
+0500000US42027,"Centre County, Pennsylvania",Centre County, Pennsylvania,60457.0,136348.0,57682.0,1.9,1.3,19.0,8.3,69.5,40088.99
+0500000US42029,"Chester County, Pennsylvania",Chester County, Pennsylvania,204309.0,530122.0,134875.0,6.9,4.9,39.9,21.8,26.5,35741.875
+0500000US42033,"Clearfield County, Pennsylvania",Clearfield County, Pennsylvania,32709.0,74063.0,13391.0,10.4,5.2,41.9,27.6,14.9,1995.259
+0500000US42039,"Crawford County, Pennsylvania",Crawford County, Pennsylvania,34905.0,78245.0,17263.0,7.1,4.5,42.5,20.0,25.9,4471.117
+0500000US42041,"Cumberland County, Pennsylvania",Cumberland County, Pennsylvania,106531.0,254901.0,66649.0,3.7,3.4,39.2,20.2,33.6,22394.064000000002
+0500000US42043,"Dauphin County, Pennsylvania",Dauphin County, Pennsylvania,122403.0,282630.0,64198.0,4.8,7.6,40.8,23.5,23.3,14958.134
+0500000US42045,"Delaware County, Pennsylvania",Delaware County, Pennsylvania,216679.0,553210.0,142829.0,5.5,4.0,38.8,23.2,28.5,40706.265
+0500000US42049,"Erie County, Pennsylvania",Erie County, Pennsylvania,111286.0,254034.0,64558.0,4.9,5.2,37.7,18.1,34.0,21949.72
+0500000US42051,"Fayette County, Pennsylvania",Fayette County, Pennsylvania,55657.0,121435.0,22131.0,5.5,5.6,48.6,26.7,13.7,3031.9469999999997
+0500000US42055,"Franklin County, Pennsylvania",Franklin County, Pennsylvania,64960.0,155086.0,30086.0,5.4,3.3,50.7,24.8,15.7,4723.502
+0500000US42063,"Indiana County, Pennsylvania",Indiana County, Pennsylvania,32060.0,77429.0,21024.0,3.6,4.8,30.0,17.2,44.4,9334.656
+0500000US42069,"Lackawanna County, Pennsylvania",Lackawanna County, Pennsylvania,89262.0,207327.0,48499.0,4.5,4.0,41.9,22.3,27.2,13191.728000000001
+0500000US42071,"Lancaster County, Pennsylvania",Lancaster County, Pennsylvania,212016.0,540906.0,124328.0,5.0,4.4,47.8,20.5,22.3,27725.144
+0500000US42073,"Lawrence County, Pennsylvania",Lawrence County, Pennsylvania,35694.0,82630.0,18657.0,8.3,3.5,43.3,24.1,20.9,3899.3129999999996
+0500000US42075,"Lebanon County, Pennsylvania",Lebanon County, Pennsylvania,55245.0,139819.0,30689.0,2.3,4.8,48.9,22.1,22.0,6751.58
+0500000US42077,"Lehigh County, Pennsylvania",Lehigh County, Pennsylvania,142990.0,367564.0,86116.0,4.3,3.3,45.8,22.4,24.3,20926.188
+0500000US42079,"Luzerne County, Pennsylvania",Luzerne County, Pennsylvania,134858.0,315915.0,69667.0,5.9,4.0,41.0,22.9,26.2,18252.754
+0500000US42081,"Lycoming County, Pennsylvania",Lycoming County, Pennsylvania,46774.0,107530.0,24440.0,6.9,7.7,38.8,18.5,28.1,6867.64
+0500000US42085,"Mercer County, Pennsylvania",Mercer County, Pennsylvania,45960.0,102453.0,22011.0,3.4,5.9,41.0,19.1,30.6,6735.366
+0500000US42089,"Monroe County, Pennsylvania",Monroe County, Pennsylvania,58034.0,163483.0,37092.0,6.0,6.1,35.4,21.9,30.6,11350.152
+0500000US42091,"Montgomery County, Pennsylvania",Montgomery County, Pennsylvania,335219.0,841795.0,204772.0,7.3,4.4,40.5,22.3,25.5,52216.86
+0500000US42095,"Northampton County, Pennsylvania",Northampton County, Pennsylvania,121651.0,305129.0,76158.0,4.9,1.7,39.7,19.9,33.8,25741.404
+0500000US42097,"Northumberland County, Pennsylvania",Northumberland County, Pennsylvania,38451.0,85450.0,15217.0,2.1,6.0,47.2,25.6,19.0,2891.23
+0500000US42101,"Philadelphia County, Pennsylvania",Philadelphia County, Pennsylvania,695320.0,1518324.0,388497.0,5.2,4.9,37.6,18.2,34.1,132477.477
+0500000US42107,"Schuylkill County, Pennsylvania",Schuylkill County, Pennsylvania,58222.0,135321.0,27213.0,3.8,5.0,46.9,24.6,19.7,5360.960999999999
+0500000US42111,"Somerset County, Pennsylvania",Somerset County, Pennsylvania,29464.0,68531.0,12712.0,5.9,4.7,46.0,25.6,17.8,2262.7360000000003
+0500000US42125,"Washington County, Pennsylvania",Washington County, Pennsylvania,89735.0,204949.0,41850.0,7.3,5.5,43.2,20.3,23.8,9960.300000000001
+0500000US42129,"Westmoreland County, Pennsylvania",Westmoreland County, Pennsylvania,156132.0,345186.0,67420.0,6.0,6.2,41.7,24.8,21.3,14360.46
+0500000US42133,"York County, Pennsylvania",York County, Pennsylvania,184019.0,453190.0,98014.0,5.4,5.1,43.3,25.5,20.6,20190.884000000002
+0500000US44003,"Kent County, Rhode Island",Kent County, Rhode Island,73272.0,169166.0,35560.0,7.6,3.5,41.4,19.6,27.8,9885.68
+0500000US44005,"Newport County, Rhode Island",Newport County, Rhode Island,37165.0,80680.0,16985.0,4.6,4.8,33.9,20.6,36.0,6114.599999999999
+0500000US44007,"Providence County, Rhode Island",Providence County, Rhode Island,263501.0,629914.0,162591.0,5.1,5.3,34.7,20.6,34.2,55606.122
+0500000US44009,"Washington County, Rhode Island",Washington County, Rhode Island,53138.0,122574.0,32408.0,5.0,2.3,25.8,20.1,46.8,15166.944
+0500000US45003,"Aiken County, South Carolina",Aiken County, South Carolina,71391.0,171673.0,37541.0,3.1,6.6,46.0,20.6,23.7,8897.216999999999
+0500000US45007,"Anderson County, South Carolina",Anderson County, South Carolina,85096.0,206062.0,45806.0,4.6,7.3,43.4,26.1,18.6,8519.916000000001
+0500000US45013,"Beaufort County, South Carolina",Beaufort County, South Carolina,80670.0,187382.0,33467.0,5.7,4.9,42.2,24.3,22.9,7663.942999999999
+0500000US45015,"Berkeley County, South Carolina",Berkeley County, South Carolina,94287.0,240188.0,57928.0,2.3,5.1,47.8,21.7,23.2,13439.295999999998
+0500000US45019,"Charleston County, South Carolina",Charleston County, South Carolina,179597.0,409620.0,90656.0,7.8,6.9,35.5,20.1,29.7,26924.832
+0500000US45035,"Dorchester County, South Carolina",Dorchester County, South Carolina,64183.0,163881.0,40038.0,5.0,4.9,46.1,25.2,18.9,7567.181999999999
+0500000US45041,"Florence County, South Carolina",Florence County, South Carolina,53185.0,133423.0,31539.0,8.0,8.0,44.0,22.7,17.2,5424.708
+0500000US45045,"Greenville County, South Carolina",Greenville County, South Carolina,222007.0,536743.0,129118.0,5.1,6.5,42.6,22.7,23.1,29826.258
+0500000US45047,"Greenwood County, South Carolina",Greenwood County, South Carolina,27177.0,65229.0,19409.0,3.0,10.4,37.4,14.4,34.8,6754.331999999999
+0500000US45051,"Horry County, South Carolina",Horry County, South Carolina,162136.0,376576.0,70479.0,3.8,4.8,38.3,23.8,29.4,20720.825999999997
+0500000US45055,"Kershaw County, South Carolina",Kershaw County, South Carolina,26752.0,67412.0,15259.0,4.7,6.6,46.0,26.1,16.6,2532.994
+0500000US45057,"Lancaster County, South Carolina",Lancaster County, South Carolina,40910.0,102926.0,21671.0,4.3,9.0,41.4,25.7,19.6,4247.5160000000005
+0500000US45059,"Laurens County, South Carolina",Laurens County, South Carolina,26848.0,65780.0,13799.0,3.1,9.1,46.0,20.7,21.1,2911.5890000000004
+0500000US45063,"Lexington County, South Carolina",Lexington County, South Carolina,122936.0,302015.0,71732.0,6.1,5.7,45.4,22.0,20.7,14848.524
+0500000US45073,"Oconee County, South Carolina",Oconee County, South Carolina,37516.0,79227.0,17099.0,4.6,5.3,43.1,21.1,25.8,4411.542
+0500000US45075,"Orangeburg County, South Carolina",Orangeburg County, South Carolina,33632.0,79490.0,19680.0,5.5,1.9,43.6,21.6,27.4,5392.32
+0500000US45077,"Pickens County, South Carolina",Pickens County, South Carolina,53210.0,125045.0,39972.0,3.6,3.0,30.2,12.8,50.5,20185.86
+0500000US45079,"Richland County, South Carolina",Richland County, South Carolina,168877.0,396610.0,119104.0,4.2,2.8,34.6,20.0,38.4,45735.936
+0500000US45083,"Spartanburg County, South Carolina",Spartanburg County, South Carolina,133018.0,337923.0,77133.0,5.4,7.4,43.5,23.4,20.4,15735.132
+0500000US45085,"Sumter County, South Carolina",Sumter County, South Carolina,40388.0,100716.0,24755.0,7.0,7.3,35.6,24.6,25.4,6287.77
+0500000US45091,"York County, South Carolina",York County, South Carolina,114312.0,290288.0,70997.0,6.4,4.4,46.1,22.7,20.4,14483.387999999999
+0500000US46083,"Lincoln County, South Dakota",Lincoln County, South Dakota,27815.0,70721.0,17843.0,2.3,6.6,50.8,22.5,17.7,3158.211
+0500000US46099,"Minnehaha County, South Dakota",Minnehaha County, South Dakota,85576.0,199324.0,49378.0,7.8,5.6,46.0,22.2,18.4,9085.552
+0500000US46103,"Pennington County, South Dakota",Pennington County, South Dakota,47370.0,110331.0,27239.0,4.9,3.7,43.7,22.4,25.3,6891.467
+0500000US47001,"Anderson County, Tennessee",Anderson County, Tennessee,32158.0,77752.0,17341.0,5.6,6.7,42.1,25.6,19.9,3450.8589999999995
+0500000US47009,"Blount County, Tennessee",Blount County, Tennessee,56211.0,137876.0,28029.0,8.7,4.8,45.3,25.8,15.4,4316.466
+0500000US47011,"Bradley County, Tennessee",Bradley County, Tennessee,42035.0,108060.0,24258.0,4.9,5.2,42.9,22.0,25.0,6064.5
+0500000US47037,"Davidson County, Tennessee",Davidson County, Tennessee,327791.0,687340.0,152253.0,5.8,5.6,37.1,18.8,32.7,49786.731
+0500000US47059,"Greene County, Tennessee",Greene County, Tennessee,29065.0,69592.0,13044.0,7.7,10.3,36.1,28.1,17.8,2321.8320000000003
+0500000US47063,"Hamblen County, Tennessee",Hamblen County, Tennessee,26994.0,64640.0,13190.0,7.3,6.2,49.3,23.9,13.3,1754.27
+0500000US47065,"Hamilton County, Tennessee",Hamilton County, Tennessee,152851.0,366451.0,81385.0,6.4,4.9,40.6,21.9,26.2,21322.870000000003
+0500000US47093,"Knox County, Tennessee",Knox County, Tennessee,201193.0,480498.0,126341.0,3.6,5.0,35.5,20.5,35.3,44598.373
+0500000US47113,"Madison County, Tennessee",Madison County, Tennessee,38590.0,95384.0,26214.0,6.0,5.9,35.1,18.3,34.7,9096.258000000002
+0500000US47119,"Maury County, Tennessee",Maury County, Tennessee,42343.0,106901.0,23405.0,1.9,2.3,53.8,23.8,18.2,4259.71
+0500000US47125,"Montgomery County, Tennessee",Montgomery County, Tennessee,89176.0,230508.0,65656.0,5.4,5.4,41.4,17.8,30.1,19762.456
+0500000US47141,"Putnam County, Tennessee",Putnam County, Tennessee,34678.0,78976.0,23541.0,7.3,5.3,25.5,20.9,41.1,9675.351
+0500000US47147,"Robertson County, Tennessee",Robertson County, Tennessee,28955.0,74749.0,16677.0,8.5,11.1,41.1,28.0,11.2,1867.8239999999998
+0500000US47149,"Rutherford County, Tennessee",Rutherford County, Tennessee,132945.0,355726.0,93779.0,5.4,4.2,43.3,21.2,25.9,24288.761000000002
+0500000US47155,"Sevier County, Tennessee",Sevier County, Tennessee,42814.0,98076.0,17778.0,4.4,6.8,41.2,29.0,18.6,3306.7080000000005
+0500000US47157,"Shelby County, Tennessee",Shelby County, Tennessee,362643.0,901030.0,231221.0,6.3,6.2,44.1,21.3,22.1,51099.841
+0500000US47163,"Sullivan County, Tennessee",Sullivan County, Tennessee,69704.0,158631.0,29809.0,2.6,7.0,45.7,23.4,21.3,6349.317
+0500000US47165,"Sumner County, Tennessee",Sumner County, Tennessee,79326.0,202229.0,46161.0,3.8,4.8,45.1,25.7,20.6,9509.166000000001
+0500000US47179,"Washington County, Tennessee",Washington County, Tennessee,56081.0,131501.0,32402.0,2.6,3.2,35.4,18.6,40.3,13058.006
+0500000US47187,"Williamson County, Tennessee",Williamson County, Tennessee,93752.0,259791.0,74043.0,5.4,4.1,46.3,23.2,21.0,15549.029999999999
+0500000US47189,"Wilson County, Tennessee",Wilson County, Tennessee,60788.0,156758.0,38064.0,6.7,3.9,46.7,21.8,20.8,7917.312000000001
+0500000US48005,"Angelina County, Texas",Angelina County, Texas,34276.0,83394.0,21972.0,8.0,9.1,45.0,22.3,15.7,3449.604
+0500000US48021,"Bastrop County, Texas",Bastrop County, Texas,37278.0,103426.0,23412.0,2.8,2.7,54.4,26.0,14.1,3301.0919999999996
+0500000US48027,"Bell County, Texas",Bell County, Texas,143361.0,380086.0,106546.0,4.8,4.9,45.5,19.7,25.1,26743.046
+0500000US48029,"Bexar County, Texas",Bexar County, Texas,754632.0,2019669.0,549258.0,4.9,5.4,41.5,21.2,26.9,147750.40199999997
+0500000US48037,"Bowie County, Texas",Bowie County, Texas,35469.0,86789.0,19289.0,2.0,7.7,49.7,26.6,14.0,2700.46
+0500000US48039,"Brazoria County, Texas",Brazoria County, Texas,133871.0,375118.0,104140.0,6.3,6.2,42.9,23.3,21.3,22181.82
+0500000US48041,"Brazos County, Texas",Brazos County, Texas,93580.0,221662.0,100256.0,3.6,3.0,20.2,8.7,64.5,64665.12
+0500000US48061,"Cameron County, Texas",Cameron County, Texas,137982.0,422190.0,129454.0,5.3,5.6,44.6,22.7,21.8,28220.972
+0500000US48085,"Collin County, Texas",Collin County, Texas,414601.0,1149846.0,310965.0,6.1,5.2,40.8,23.9,24.0,74631.59999999999
+0500000US48091,"Comal County, Texas",Comal County, Texas,70544.0,183142.0,39072.0,6.5,5.1,47.2,25.1,16.2,6329.664
+0500000US48099,"Coryell County, Texas",Coryell County, Texas,27660.0,67995.0,18901.0,4.7,7.4,41.2,21.6,25.1,4744.151
+0500000US48113,"Dallas County, Texas",Dallas County, Texas,992995.0,2572289.0,653391.0,6.1,5.6,43.2,23.6,21.4,139825.674
+0500000US48121,"Denton County, Texas",Denton County, Texas,361770.0,966245.0,255527.0,6.3,5.9,39.6,21.3,27.0,68992.29000000001
+0500000US48135,"Ector County, Texas",Ector County, Texas,63738.0,158626.0,46876.0,5.3,5.5,45.3,20.5,23.5,11015.859999999999
+0500000US48139,"Ellis County, Texas",Ellis County, Texas,73227.0,209949.0,57542.0,7.0,5.5,45.5,23.1,18.9,10875.437999999998
+0500000US48141,"El Paso County, Texas",El Paso County, Texas,300636.0,855943.0,251169.0,5.3,5.2,40.3,22.4,26.8,67313.292
+0500000US48157,"Fort Bend County, Texas",Fort Bend County, Texas,295091.0,883290.0,254601.0,7.3,4.7,43.7,23.1,21.3,54230.013
+0500000US48167,"Galveston County, Texas",Galveston County, Texas,143725.0,351829.0,92594.0,5.0,4.8,42.6,22.1,25.6,23704.064000000002
+0500000US48181,"Grayson County, Texas",Grayson County, Texas,54309.0,140384.0,30818.0,4.2,6.5,49.9,23.8,15.6,4807.608
+0500000US48183,"Gregg County, Texas",Gregg County, Texas,47877.0,121461.0,31539.0,6.9,4.2,47.5,23.3,18.2,5740.098
+0500000US48187,"Guadalupe County, Texas",Guadalupe County, Texas,66711.0,180782.0,47358.0,6.7,8.0,38.2,25.6,21.5,10181.97
+0500000US48201,"Harris County, Texas",Harris County, Texas,1779980.0,4738658.0,1263070.0,6.3,6.0,43.5,22.5,21.7,274086.19
+0500000US48203,"Harrison County, Texas",Harrison County, Texas,26795.0,67909.0,16390.0,2.6,11.4,49.4,15.1,21.5,3523.85
+0500000US48209,"Hays County, Texas",Hays County, Texas,101449.0,260840.0,81547.0,5.4,2.9,34.4,16.3,40.9,33352.723
+0500000US48213,"Henderson County, Texas",Henderson County, Texas,33671.0,83224.0,17382.0,5.7,3.0,49.0,23.6,18.6,3233.0520000000006
+0500000US48215,"Hidalgo County, Texas",Hidalgo County, Texas,270891.0,881820.0,270739.0,5.6,4.9,46.0,23.2,20.3,54960.01700000001
+0500000US48221,"Hood County, Texas",Hood County, Texas,25700.0,65470.0,14423.0,7.6,2.8,44.0,27.5,18.0,2596.14
+0500000US48231,"Hunt County, Texas",Hunt County, Texas,38072.0,104496.0,27953.0,4.6,8.5,40.3,23.8,22.8,6373.284000000001
+0500000US48245,"Jefferson County, Texas",Jefferson County, Texas,96171.0,235331.0,55359.0,6.3,8.2,49.8,19.7,16.0,8857.44
+0500000US48251,"Johnson County, Texas",Johnson County, Texas,66686.0,192542.0,43881.0,6.3,5.9,45.3,27.0,15.5,6801.555
+0500000US48257,"Kaufman County, Texas",Kaufman County, Texas,50855.0,170969.0,48412.0,1.2,7.7,49.1,24.7,17.3,8375.276
+0500000US48291,"Liberty County, Texas",Liberty County, Texas,32223.0,96779.0,24174.0,4.6,6.3,55.6,22.9,10.5,2538.27
+0500000US48303,"Lubbock County, Texas",Lubbock County, Texas,127879.0,304379.0,101071.0,5.2,4.2,33.2,16.9,40.5,40933.755000000005
+0500000US48309,"McLennan County, Texas",McLennan County, Texas,94725.0,258581.0,75017.0,3.9,5.3,36.6,17.3,37.0,27756.29
+0500000US48329,"Midland County, Texas",Midland County, Texas,69398.0,170187.0,44474.0,3.8,5.3,52.1,22.1,16.7,7427.157999999999
+0500000US48339,"Montgomery County, Texas",Montgomery County, Texas,249534.0,675147.0,165762.0,4.8,6.0,47.9,26.1,15.2,25195.824
+0500000US48355,"Nueces County, Texas",Nueces County, Texas,131989.0,343584.0,80053.0,6.5,6.4,42.8,23.8,20.5,16410.864999999998
+0500000US48361,"Orange County, Texas",Orange County, Texas,33580.0,84396.0,20255.0,6.2,5.2,47.6,23.5,17.4,3524.37
+0500000US48367,"Parker County, Texas",Parker County, Texas,55761.0,164264.0,39611.0,6.2,4.2,50.1,20.4,19.1,7565.701
+0500000US48375,"Potter County, Texas",Potter County, Texas,42366.0,110002.0,30176.0,7.0,3.4,44.3,24.0,21.3,6427.488
+0500000US48381,"Randall County, Texas",Randall County, Texas,55187.0,143019.0,37986.0,5.5,3.6,40.9,24.8,25.2,9572.472
+0500000US48397,"Rockwall County, Texas",Rockwall County, Texas,41956.0,122510.0,30770.0,2.2,6.6,46.5,28.8,15.9,4892.43
+0500000US48409,"San Patricio County, Texas",San Patricio County, Texas,24376.0,69277.0,17829.0,5.2,4.1,48.2,24.9,17.5,3120.075
+0500000US48423,"Smith County, Texas",Smith County, Texas,80889.0,236227.0,61246.0,5.9,4.3,42.8,22.3,24.7,15127.762
+0500000US48427,"Starr County, Texas",Starr County, Texas,19082.0,65249.0,21271.0,4.8,6.6,47.2,21.6,19.8,4211.658
+0500000US48439,"Tarrant County, Texas",Tarrant County, Texas,787083.0,2123840.0,584112.0,4.9,5.5,42.5,22.9,24.2,141355.104
+0500000US48441,"Taylor County, Texas",Taylor County, Texas,53907.0,138601.0,36048.0,5.4,2.8,43.7,19.9,28.1,10129.488000000001
+0500000US48451,"Tom Green County, Texas",Tom Green County, Texas,46843.0,114440.0,30340.0,2.2,6.0,44.5,19.0,28.2,8555.88
+0500000US48453,"Travis County, Texas",Travis County, Texas,586136.0,1303106.0,303464.0,6.8,3.7,39.1,19.5,30.8,93466.912
+0500000US48469,"Victoria County, Texas",Victoria County, Texas,34188.0,89684.0,22426.0,3.4,5.0,46.7,28.0,16.8,3767.568
+0500000US48471,"Walker County, Texas",Walker County, Texas,26918.0,60790.0,20363.0,1.2,6.5,24.7,10.9,56.7,11545.821000000002
+0500000US48479,"Webb County, Texas",Webb County, Texas,82519.0,265018.0,81127.0,3.5,7.7,47.0,23.7,18.1,14683.987000000001
+0500000US48485,"Wichita County, Texas",Wichita County, Texas,50211.0,118065.0,29899.0,5.5,7.4,43.1,20.8,23.3,6966.467000000001
+0500000US48491,"Williamson County, Texas",Williamson County, Texas,258095.0,666443.0,171691.0,7.5,4.9,43.1,21.8,22.7,38973.856999999996
+0500000US48497,"Wise County, Texas",Wise County, Texas,25430.0,73793.0,17585.0,5.8,3.9,51.9,24.9,13.6,2391.56
+0500000US49005,"Cache County, Utah",Cache County, Utah,45099.0,135992.0,53903.0,4.2,5.3,33.8,16.0,40.7,21938.521
+0500000US49011,"Davis County, Utah",Davis County, Utah,116709.0,367182.0,112516.0,5.6,4.0,43.6,26.8,20.0,22503.2
+0500000US49035,"Salt Lake County, Utah",Salt Lake County, Utah,424300.0,1170076.0,317822.0,5.7,4.3,42.0,23.1,24.9,79137.678
+0500000US49045,"Tooele County, Utah",Tooele County, Utah,23872.0,79526.0,25574.0,8.4,5.1,48.2,22.7,15.6,3989.544
+0500000US49049,"Utah County, Utah",Utah County, Utah,204285.0,688416.0,255569.0,5.3,4.6,36.7,20.4,33.0,84337.77
+0500000US49053,"Washington County, Utah",Washington County, Utah,71891.0,194797.0,48591.0,4.9,4.6,45.2,24.1,21.2,10301.292
+0500000US49057,"Weber County, Utah",Weber County, Utah,95099.0,266122.0,70326.0,5.1,6.6,44.0,23.1,21.2,14909.112
+0500000US50007,"Chittenden County, Vermont",Chittenden County, Vermont,72106.0,158221.0,46862.0,6.8,3.3,25.7,14.5,49.6,23243.552
+0500000US51003,"Albemarle County, Virginia",Albemarle County, Virginia,45178.0,107403.0,30609.0,6.0,5.7,27.4,21.2,39.7,12151.773000000001
+0500000US51013,"Arlington County, Virginia",Arlington County, Virginia,112504.0,231019.0,49929.0,6.0,5.2,37.8,16.1,34.9,17425.220999999998
+0500000US51015,"Augusta County, Virginia",Augusta County, Virginia,31434.0,74978.0,13623.0,4.1,6.8,46.8,24.4,17.9,2438.517
+0500000US51019,"Bedford County, Virginia",Bedford County, Virginia,32540.0,80308.0,17279.0,5.9,7.0,40.8,25.0,21.3,3680.427
+0500000US51041,"Chesterfield County, Virginia",Chesterfield County, Virginia,140498.0,372929.0,92694.0,4.0,4.5,43.6,24.4,23.5,21783.09
+0500000US51059,"Fairfax County, Virginia",Fairfax County, Virginia,415855.0,1128201.0,296598.0,6.5,4.3,39.6,22.1,27.6,81861.04800000001
+0500000US51061,"Fauquier County, Virginia",Fauquier County, Virginia,26757.0,74286.0,17498.0,8.8,4.9,41.9,24.5,19.9,3482.102
+0500000US51069,"Frederick County, Virginia",Frederick County, Virginia,35947.0,93841.0,21295.0,3.7,4.1,50.6,23.2,18.5,3939.575
+0500000US51085,"Hanover County, Virginia",Hanover County, Virginia,43274.0,110431.0,25805.0,6.0,6.3,41.4,23.7,22.6,5831.93
+0500000US51087,"Henrico County, Virginia",Henrico County, Virginia,137370.0,329700.0,76169.0,6.6,5.4,42.2,23.3,22.5,17138.025
+0500000US51095,"James City County, Virginia",James City County, Virginia,32592.0,80102.0,16531.0,5.7,5.7,40.0,18.5,30.0,4959.3
+0500000US51107,"Loudoun County, Virginia",Loudoun County, Virginia,143195.0,430630.0,120624.0,4.4,4.9,43.3,24.0,23.5,28346.64
+0500000US51121,"Montgomery County, Virginia",Montgomery County, Virginia,36539.0,87058.0,42111.0,2.3,2.3,16.0,7.3,72.1,30362.031
+0500000US51153,"Prince William County, Virginia",Prince William County, Virginia,156728.0,483164.0,133822.0,5.6,4.5,42.6,23.2,24.1,32251.102000000003
+0500000US51161,"Roanoke County, Virginia",Roanoke County, Virginia,40024.0,94946.0,20275.0,8.1,3.4,38.5,20.9,29.1,5900.025000000001
+0500000US51165,"Rockingham County, Virginia",Rockingham County, Virginia,33771.0,83160.0,18974.0,3.2,4.5,43.9,21.3,27.1,5141.954000000001
+0500000US51177,"Spotsylvania County, Virginia",Spotsylvania County, Virginia,52415.0,146365.0,35817.0,3.5,4.5,45.3,24.0,22.7,8130.458999999999
+0500000US51179,"Stafford County, Virginia",Stafford County, Virginia,52315.0,159645.0,44869.0,3.3,6.2,42.0,24.2,24.2,10858.297999999999
+0500000US51199,"York County, Virginia",York County, Virginia,27408.0,70271.0,17259.0,2.7,6.3,46.1,20.1,24.9,4297.491
+0500000US51510,"Alexandria city, Virginia",Alexandria city, Virginia,76672.0,153901.0,30557.0,9.6,7.9,30.8,19.7,32.0,9778.24
+0500000US51550,"Chesapeake city, Virginia",Chesapeake city, Virginia,95073.0,248402.0,62522.0,5.5,7.6,37.8,24.5,24.7,15442.934
+0500000US51650,"Hampton city, Virginia",Hampton city, Virginia,56961.0,134923.0,32671.0,7.2,6.7,38.2,19.0,28.9,9441.919
+0500000US51680,"Lynchburg city, Virginia",Lynchburg city, Virginia,29181.0,68600.0,28287.0,2.0,2.2,24.1,10.7,61.0,17255.07
+0500000US51700,"Newport News city, Virginia",Newport News city, Virginia,75306.0,177446.0,44146.0,3.3,7.6,39.5,21.6,28.0,12360.880000000001
+0500000US51710,"Norfolk city, Virginia",Norfolk city, Virginia,94532.0,215801.0,56943.0,3.9,6.1,34.6,15.4,40.0,22777.2
+0500000US51740,"Portsmouth city, Virginia",Portsmouth city, Virginia,40178.0,94288.0,21534.0,7.1,7.9,40.6,21.4,23.1,4974.354
+0500000US51760,"Richmond city, Virginia",Richmond city, Virginia,106252.0,218462.0,54493.0,5.6,3.9,29.1,13.9,47.5,25884.175
+0500000US51770,"Roanoke city, Virginia",Roanoke city, Virginia,44543.0,96278.0,20621.0,6.6,5.2,50.3,17.8,20.2,4165.442
+0500000US51800,"Suffolk city, Virginia",Suffolk city, Virginia,38713.0,97325.0,23324.0,7.3,7.8,39.7,26.7,18.5,4314.94
+0500000US51810,"Virginia Beach city, Virginia",Virginia Beach city, Virginia,179752.0,448299.0,105301.0,6.0,7.1,38.5,21.7,26.7,28115.367000000002
+0500000US53005,"Benton County, Washington",Benton County, Washington,78231.0,210320.0,54121.0,6.0,5.9,46.3,24.8,16.9,9146.448999999999
+0500000US53007,"Chelan County, Washington",Chelan County, Washington,32272.0,78159.0,15718.0,6.5,3.1,54.4,19.4,16.5,2593.4700000000003
+0500000US53009,"Clallam County, Washington",Clallam County, Washington,35527.0,76119.0,12889.0,7.4,7.7,43.7,20.1,21.1,2719.579
+0500000US53011,"Clark County, Washington",Clark County, Washington,198400.0,512893.0,116180.0,5.5,3.8,46.2,22.9,21.5,24978.7
+0500000US53015,"Cowlitz County, Washington",Cowlitz County, Washington,44049.0,110871.0,23608.0,3.3,8.1,48.6,22.2,17.9,4225.831999999999
+0500000US53021,"Franklin County, Washington",Franklin County, Washington,30290.0,95415.0,27504.0,3.7,4.8,50.0,25.5,16.1,4428.144
+0500000US53025,"Grant County, Washington",Grant County, Washington,36134.0,97727.0,27537.0,6.7,5.3,47.8,24.3,16.0,4405.92
+0500000US53027,"Grays Harbor County, Washington",Grays Harbor County, Washington,30995.0,74702.0,13687.0,2.2,6.5,50.2,27.2,14.0,1916.1800000000003
+0500000US53029,"Island County, Washington",Island County, Washington,37109.0,84684.0,15646.0,5.9,3.8,46.1,17.1,27.0,4224.42
+0500000US53033,"King County, Washington",King County, Washington,945040.0,2226152.0,497053.0,6.8,5.5,39.1,19.6,29.1,144642.423
+0500000US53035,"Kitsap County, Washington",Kitsap County, Washington,109245.0,270346.0,53943.0,6.1,7.0,44.4,20.8,21.7,11705.631
+0500000US53041,"Lewis County, Washington",Lewis County, Washington,32149.0,84833.0,17327.0,5.0,7.1,44.1,24.7,19.1,3309.457
+0500000US53045,"Mason County, Washington",Mason County, Washington,27099.0,66179.0,12472.0,2.0,10.4,40.9,25.2,21.6,2693.952
+0500000US53053,"Pierce County, Washington",Pierce County, Washington,351652.0,905111.0,215862.0,6.0,6.6,42.8,21.5,23.1,49864.122
+0500000US53057,"Skagit County, Washington",Skagit County, Washington,50818.0,129553.0,26123.0,5.8,4.7,49.8,23.2,16.5,4310.295
+0500000US53061,"Snohomish County, Washington",Snohomish County, Washington,314888.0,830630.0,183399.0,5.5,5.7,44.8,22.2,21.8,39980.981999999996
+0500000US53063,"Spokane County, Washington",Spokane County, Washington,220879.0,534978.0,128971.0,6.8,4.5,41.1,19.6,27.9,35982.909
+0500000US53067,"Thurston County, Washington",Thurston County, Washington,118571.0,294147.0,64018.0,6.5,4.0,43.5,21.2,24.7,15812.446
+0500000US53073,"Whatcom County, Washington",Whatcom County, Washington,94813.0,225815.0,56108.0,5.7,6.3,34.4,16.3,37.3,20928.284
+0500000US53077,"Yakima County, Washington",Yakima County, Washington,87616.0,253014.0,69409.0,5.3,5.6,46.8,26.7,15.5,10758.395
+0500000US54003,"Berkeley County, West Virginia",Berkeley County, West Virginia,51145.0,128343.0,28526.0,5.8,5.5,43.5,25.9,19.3,5505.518
+0500000US54011,"Cabell County, West Virginia",Cabell County, West Virginia,38887.0,88166.0,23447.0,5.0,3.9,34.4,14.7,42.0,9847.74
+0500000US54033,"Harrison County, West Virginia",Harrison County, West Virginia,25987.0,63966.0,11333.0,7.8,8.0,42.6,23.5,18.0,2039.9399999999998
+0500000US54039,"Kanawha County, West Virginia",Kanawha County, West Virginia,78246.0,172395.0,36058.0,7.1,4.2,44.3,25.2,19.2,6923.136
+0500000US54061,"Monongalia County, West Virginia",Monongalia County, West Virginia,44767.0,100402.0,35175.0,2.9,3.4,19.9,10.6,63.2,22230.6
+0500000US54081,"Raleigh County, West Virginia",Raleigh County, West Virginia,28043.0,69467.0,11958.0,8.8,6.5,43.9,22.1,18.7,2236.146
+0500000US54107,"Wood County, West Virginia",Wood County, West Virginia,37220.0,82265.0,15400.0,4.6,4.2,52.3,22.8,16.0,2464.0
+0500000US55009,"Brown County, Wisconsin",Brown County, Wisconsin,112390.0,263464.0,64083.0,6.8,4.4,42.0,23.0,23.7,15187.670999999998
+0500000US55017,"Chippewa County, Wisconsin",Chippewa County, Wisconsin,27120.0,63817.0,13657.0,6.0,3.9,48.8,23.7,17.6,2403.632
+0500000US55025,"Dane County, Wisconsin",Dane County, Wisconsin,252136.0,551546.0,154814.0,4.6,3.4,33.4,16.1,42.5,65795.95
+0500000US55027,"Dodge County, Wisconsin",Dodge County, Wisconsin,36407.0,84112.0,17643.0,6.0,4.2,43.9,23.7,22.3,3934.389
+0500000US55035,"Eau Claire County, Wisconsin",Eau Claire County, Wisconsin,45173.0,102553.0,26909.0,4.2,3.8,34.8,18.2,39.0,10494.51
+0500000US55039,"Fond du Lac County, Wisconsin",Fond du Lac County, Wisconsin,43958.0,100274.0,22863.0,7.7,4.9,40.7,27.0,19.8,4526.874
+0500000US55055,"Jefferson County, Wisconsin",Jefferson County, Wisconsin,35443.0,81795.0,19179.0,7.3,3.1,37.1,22.8,29.6,5676.984
+0500000US55059,"Kenosha County, Wisconsin",Kenosha County, Wisconsin,69779.0,164245.0,38653.0,4.4,6.3,41.6,21.6,26.1,10088.433
+0500000US55063,"La Crosse County, Wisconsin",La Crosse County, Wisconsin,51449.0,115627.0,33213.0,5.0,3.1,31.3,19.4,41.3,13716.969
+0500000US55071,"Manitowoc County, Wisconsin",Manitowoc County, Wisconsin,35319.0,80012.0,14973.0,6.7,5.7,47.7,25.0,14.8,2216.0040000000004
+0500000US55073,"Marathon County, Wisconsin",Marathon County, Wisconsin,56666.0,136397.0,28454.0,6.5,4.0,50.9,22.3,16.3,4638.002
+0500000US55079,"Milwaukee County, Wisconsin",Milwaukee County, Wisconsin,388440.0,900261.0,229796.0,3.5,6.9,42.5,21.5,25.6,58827.776
+0500000US55087,"Outagamie County, Wisconsin",Outagamie County, Wisconsin,78706.0,188991.0,45101.0,6.8,5.4,43.9,22.2,21.7,9786.917
+0500000US55089,"Ozaukee County, Wisconsin",Ozaukee County, Wisconsin,39117.0,91251.0,20043.0,8.7,9.0,36.9,23.9,21.6,4329.2880000000005
+0500000US55097,"Portage County, Wisconsin",Portage County, Wisconsin,29895.0,67891.0,17390.0,5.3,3.3,35.8,20.7,34.9,6069.11
+0500000US55101,"Racine County, Wisconsin",Racine County, Wisconsin,78571.0,191321.0,47123.0,7.7,3.6,42.2,26.0,20.5,9660.215
+0500000US55105,"Rock County, Wisconsin",Rock County, Wisconsin,67422.0,161511.0,38132.0,3.6,5.7,42.2,26.1,22.4,8541.568
+0500000US55109,"St. Croix County, Wisconsin",St. Croix County, Wisconsin,37750.0,95082.0,21717.0,5.3,5.7,44.8,28.4,15.8,3431.286
+0500000US55111,"Sauk County, Wisconsin",Sauk County, Wisconsin,28307.0,65060.0,13074.0,6.0,5.6,49.6,23.7,15.0,1961.1
+0500000US55117,"Sheboygan County, Wisconsin",Sheboygan County, Wisconsin,50534.0,114677.0,27227.0,7.4,4.9,41.0,24.5,22.2,6044.394
+0500000US55127,"Walworth County, Wisconsin",Walworth County, Wisconsin,42781.0,102096.0,25751.0,4.6,5.8,33.4,23.3,32.9,8472.079
+0500000US55131,"Washington County, Wisconsin",Washington County, Wisconsin,56876.0,136849.0,30468.0,6.8,5.1,41.8,26.3,20.1,6124.068
+0500000US55133,"Waukesha County, Wisconsin",Waukesha County, Wisconsin,170114.0,406761.0,94260.0,5.7,5.7,40.1,23.6,24.9,23470.74
+0500000US55139,"Winnebago County, Wisconsin",Winnebago County, Wisconsin,72135.0,163688.0,39887.0,6.7,5.4,35.8,21.4,30.7,12245.309
+0500000US55141,"Wood County, Wisconsin",Wood County, Wisconsin,32290.0,73053.0,14209.0,6.3,7.3,44.9,27.7,13.8,1960.842
+0500000US56021,"Laramie County, Wyoming",Laramie County, Wyoming,42559.0,99561.0,22768.0,5.4,10.1,43.9,19.3,21.2,4826.816
+0500000US56025,"Natrona County, Wyoming",Natrona County, Wyoming,33474.0,78619.0,19869.0,4.9,2.5,47.6,19.9,25.2,5006.988
+0500000US72013,"Arecibo Municipio, Puerto Rico",Arecibo Municipio, Puerto Rico,,,,,,,,,
+0500000US72021,"Bayamón Municipio, Puerto Rico",Bayamón Municipio, Puerto Rico,,,,,,,,,
+0500000US72025,"Caguas Municipio, Puerto Rico",Caguas Municipio, Puerto Rico,,,,,,,,,
+0500000US72031,"Carolina Municipio, Puerto Rico",Carolina Municipio, Puerto Rico,,,,,,,,,
+0500000US72061,"Guaynabo Municipio, Puerto Rico",Guaynabo Municipio, Puerto Rico,,,,,,,,,
+0500000US72097,"Mayagüez Municipio, Puerto Rico",Mayagüez Municipio, Puerto Rico,,,,,,,,,
+0500000US72113,"Ponce Municipio, Puerto Rico",Ponce Municipio, Puerto Rico,,,,,,,,,
+0500000US72127,"San Juan Municipio, Puerto Rico",San Juan Municipio, Puerto Rico,,,,,,,,,
+0500000US72135,"Toa Alta Municipio, Puerto Rico",Toa Alta Municipio, Puerto Rico,,,,,,,,,
+0500000US72137,"Toa Baja Municipio, Puerto Rico",Toa Baja Municipio, Puerto Rico,,,,,,,,,
+0500000US72139,"Trujillo Alto Municipio, Puerto Rico",Trujillo Alto Municipio, Puerto Rico,,,,,,,,,
