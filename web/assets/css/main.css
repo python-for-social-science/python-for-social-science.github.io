@@ -16,6 +16,14 @@
 	--color-footer: #b7eadc;
 }
 
+.header-color {
+	color: rgb(19 22 95) !important;
+}
+
+.button-bg {
+	color: rgb(19 22 95);
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -130,7 +138,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: black;
 		font-weight: 700;
 	}
 
@@ -143,7 +151,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: black;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1767,10 +1775,14 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	header p {
+	header {
 		color: #aaa;
 		position: relative;
 		margin: 0 0 1.6875em 0;
+	}
+
+	p {
+		color: black;
 	}
 
 	header h2 + p {
@@ -1799,7 +1811,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: black;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1811,7 +1823,7 @@ input, select, textarea {
   		cursor: pointer;
   		font-family: "Lato", sans-serif;
   		font-size: 1em;
-  		color: #777;
+  		color: black;
   		font-weight: bold;
 		line-height: 1.5em;
   		padding: 7px;
@@ -1851,7 +1863,7 @@ input, select, textarea {
 		background-color: white;
 		font-family: "Lato", sans-serif;
   		font-size: .75em;
-  		color: #777;
+  		color: black;
   		text-align: left;
   		font-weight: none;
 
@@ -1878,7 +1890,7 @@ input, select, textarea {
   		background-color: white;
   		font-family: "Lato", sans-serif;
   		font-size: 1em;
-  		color: #777;
+  		color: black;
 		cursor: pointer;
 		padding: 15px;
 		width: 90%;
@@ -1899,7 +1911,7 @@ input, select, textarea {
 	.panel-title {
 		background-color: #F7F7F7;
 		font-family: "Lato", sans-serif;
-		color: #777;
+		color: black;
   		font-size: 1.15em;
 
 	}
@@ -1912,7 +1924,7 @@ input, select, textarea {
 		font-family: "Lato", sans-serif;
   		font-size: 1em;
   		font-weight: bold;
-  		color: #777;
+  		color: black;
   		padding-left: 10pt;
 
 	}
@@ -1930,7 +1942,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #777;
+		color: black;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1989,7 +2001,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #777;
+			color: black;
 			background: #fff;
 		}
 
@@ -2508,6 +2520,7 @@ input, select, textarea {
 	}
 
 		ul.feature-icons li {
+			color: black;
 			text-decoration: none;
 			display: inline-block;
 			margin: 0 0 1.6875em 0;
@@ -2592,7 +2605,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #777;
+			color: black;
 			font-size: 0.9em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2718,7 +2731,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #777 !important;
+			color: black !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2726,7 +2739,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background-color: #f4f4f4;
-				color: #777 !important;
+				color: black !important;
 			}
 
 			input[type="submit"].alt:active,
@@ -3458,7 +3471,7 @@ input, select, textarea {
 	  border-left: 2px lightgrey solid;
 	  font-size: 90%;
 	  line-height: 1.5;
-	  color: #444;
+	  color: black;
 	}
 	
 	#communication .container > div ul {
@@ -3479,6 +3492,7 @@ input, select, textarea {
 	
 	.btn {
 	  background: var(--color-secondary);
+	  background-color: rgb(19 22 95);
 	  opacity: 0.6;
 	  display: inline-block;
 	  border-bottom: none;
